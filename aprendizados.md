@@ -36,3 +36,17 @@ Registre aqui, com data, o que funcionou, o que não funcionou e o que o dono pe
 - **Origem:** `entregas/pesquisa-publico/concorrentes-eua-guiamento-disney.md` e
   `entregas/pesquisa-publico/pesquisa-publico-maes-ingles-disney.md`
   (setor pesquisa-publico; WebSearch com fontes citadas).
+
+## 2026-10-14 — Retorno do dono sobre a pesquisa
+- **Aprendizado:** o dono não conhecia concorrentes americanos de guiamento
+  remoto; eles existem, mas divulgam pouco. Isso indica categoria pouco
+  conhecida em inglês: a LUMI precisa educar o mercado ("o que é guiamento
+  virtual") além de vender.
+- **Aprendizado:** agentes de viagem não fazem o acompanhamento no dia (o dono
+  confirma), mas algumas agências reservam as filas rápidas antecipadamente para
+  seus clientes. Para a mãe, isso vira a objeção "meu agente já reserva".
+  Resposta: "o agente reserva antes; a LUMI está com você no dia". Agentes são
+  potenciais parceiros, não concorrentes diretos.
+- **Aprendizado:** a LUMI já atende por SMS quando a família não tem WhatsApp,
+  então o canal não é barreira para o público dos EUA.
+- **Origem:** conversa com o dono após o PR das pesquisas.
