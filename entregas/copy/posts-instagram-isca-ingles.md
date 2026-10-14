@@ -8,7 +8,7 @@
 
 > **[REVISÃO OBRIGATÓRIA]** Texto escrito em inglês americano por não nativo. Recomendo revisão por falante nativo antes de publicar.
 >
-> **[CONFERÊNCIA DO SISTEMA]** Conferir no app, antes de publicar, a regra de quando a próxima reserva libera (depois de escanear a entrada numa atração reservada, segundo o dono). Posts 1, 2 e 3 dependem dela.
+> **[REGRA CONFIRMADA em 2026-10-14]** A próxima reserva de Lightning Lane Multi Pass libera depois de usar (escanear) uma reserva, uma de cada vez, sujeita a disponibilidade. Fontes: página oficial da Disney ([disneyworld.disney.go.com/lightning-lane-passes](https://disneyworld.disney.go.com/lightning-lane-passes/)), [planDisney, 24/07/2026](https://plandisney.disney.go.com/question/disney-world-lightning-lane-multi-pass-work-one-first-642120/) e [TouringPlans, atualizado 01/11/2025](https://touringplans.com/blog/how-to-use-lightning-lane-pass-disney-world-guide-faq-llmp-llsp/). Detalhes (não oficiais, TouringPlans): deixar uma reserva expirar sem usar também conta como usada; se o grupo se separar, todos precisam escanear. Reconferir a cada 3 meses.
 >
 > **Formato:** sem fotos e sem vídeo do parque por enquanto (decisão do dono). Tudo é texto na tela sobre fundo da marca (cores e logo da LUMI), animação simples, ícones ou mockup genérico de celular. Nenhum post exige o expert falando. Voz gerada por IA: decisão do dono [SEM DADO].
 

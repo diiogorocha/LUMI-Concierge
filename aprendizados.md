@@ -101,3 +101,14 @@ Registre aqui, com data, o que funcionou, o que não funcionou e o que o dono pe
   acessa a conta da cliente. Não falar de senha, acesso nem pagamento nos
   textos. Sem preço no PDF e nos e-mails.
 - **Origem:** conversa com o dono; `entregas/copy/`.
+
+## 2026-10-14 — Regra da próxima fila rápida confirmada; gancho 1 aprovado
+- **Fato com fonte:** depois das 3 reservas antecipadas, a próxima Lightning
+  Lane Multi Pass só libera depois de usar (escanear) uma reserva, uma de cada
+  vez, sujeita a disponibilidade (página oficial da Disney, planDisney de
+  24/07/2026, TouringPlans). Detalhe não oficial: reserva expirada sem uso
+  também conta como usada. Bate com a experiência do dono.
+- **Decisão do dono:** gancho aprovado "Your first 3 Lightning Lanes are the
+  easy part."
+- **Origem:** conversa com o dono e verificação web; notas no topo dos
+  arquivos de `entregas/copy/`.
