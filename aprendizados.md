@@ -50,3 +50,14 @@ Registre aqui, com data, o que funcionou, o que não funcionou e o que o dono pe
 - **Aprendizado:** a LUMI já atende por SMS quando a família não tem WhatsApp,
   então o canal não é barreira para o público dos EUA.
 - **Origem:** conversa com o dono após o PR das pesquisas.
+
+## 2026-10-14 — Produto digital para o público de língua inglesa
+- **Aprendizado:** produto digital genérico sobre Disney (guia, curso, planilha)
+  é commodity em inglês: vai de grátis a US$ 27, e agentes de viagem dão de
+  graça. O que faz sentido para a LUMI é serviço produtizado: plano
+  personalizado a partir de questionário ("Priority Park Plan"), sem acesso à
+  conta Disney, como degrau entre a isca grátis e o guiamento ao vivo, com
+  crédito no upgrade. Também protege o negócio se a Disney restringir o
+  Friends & Family.
+- **Origem:** `entregas/oferta-preco/produto-digital-maes-ingles-disney.md`
+  (setor oferta-preco; preços de mercado com fonte).
