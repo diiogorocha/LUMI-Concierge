@@ -21,6 +21,10 @@
 - **Canais:** Instagram e TikTok. O Instagram da LUMI é recente e está sendo
   construído em inglês, para atrair o público americano (informado pelo dono,
   2026-10-14).
+- **Instagram:** @lumiconcierge
+- **Site (EUA, feito no Framer):** https://lumi-concierge.com/eua. Não há
+  formulário de orçamento; o site é o link de "saiba mais".
+- **Fotos próprias:** nenhuma por enquanto.
 - **Contato (EUA):** +1 (352) 856-4860, para SMS e WhatsApp Business.
 - **Endereço físico:** não há (decisão do dono, 2026-10-14).
 - **Ferramenta de e-mail:** por enquanto nenhuma com disparo por data; os

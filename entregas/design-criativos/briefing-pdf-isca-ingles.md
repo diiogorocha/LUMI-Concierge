@@ -513,3 +513,20 @@ Estrutura do Visual Generator: assunto, estilo, clima, luz, composição, paleta
 **Do designer:**
 10. Vetorizar o logo e criar as versões positiva com fundo transparente, invertida (Creme + estrela Dourada) e monocromática Marinho [PENDENTE DESIGNER].
 11. Opcional: versão reduzida "LUMI + estrela" para tamanhos abaixo de 1 pol. / 120 px, se o dono quiser [PENDENTE DESIGNER].
+
+
+---
+
+## Atualização 2026-10-14 (dados do dono)
+
+- **Logo sem fundo recebido:** `contexto/marca/logo-lumi-positivo-transparente.png`
+  (fundo claro) e `contexto/marca/logo-lumi-invertido-transparente.png` (creme
+  + estrela dourada, para fundo marinho). A pendência de versão invertida e
+  transparente está resolvida. São PNG 500x500: servem para tela; para o PDF
+  impresso e tamanhos grandes, pedir vetor ou versão maior.
+- **Rodapé:** Instagram @lumiconcierge.
+- **Formulário de orçamento:** não existe. Na página 10, trocar a linha de
+  orçamento por "Learn more: lumi-concierge.com/eua"
+  (https://lumi-concierge.com/eua).
+- **Fotos:** nenhuma por enquanto. Usar a versão só tipográfica (sem foto)
+  definida acima.

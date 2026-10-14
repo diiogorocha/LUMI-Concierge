@@ -1,7 +1,7 @@
 # Isca em PDF (inglês): Park Day Prep Guide, texto final para diagramar
 
 **Cliente:** LUMI Concierge
-**Data:** 2026-10-14 (revisão 2, com o retorno do dono sobre gancho, preço, acesso, contato e "Disney")
+**Data:** 2026-10-14 (revisão 2, com o retorno do dono sobre gancho, acesso, contato e "Disney")
 **Setor:** Copy e Persuasão
 **Briefing:** `entregas/funil-lancamento/funil-isca-pdf-instagram-ingles.md` (seções 3.2 a 3.4 e 4) + `contexto/oferta.md`, "Mecanismo" > "Detalhes do funcionamento"
 **Especialistas:** Stefan Georgi (RMBC: mecanismo de duas partes. Causa real = só 3 filas rápidas antes do dia; a próxima só depois de escanear a entrada; quanto mais tarde e mais longe, mais os horários sobem e as prioritárias esgotam. Solução = alguém que sabe o que esgota primeiro e agenda a próxima no minuto certo, o dia todo) e John Caples (3 ganchos com notícia, especificidade e curiosidade; títulos A/B com uma variável só).
@@ -182,7 +182,6 @@ Booking morning is a race against everyone else who opened the app at the same m
 - [ ] The official My Disney Experience app is installed and you're logged in.
 - [ ] Park tickets for **everyone** in your group are linked, so the whole group shows up when you book.
 - [ ] If you're staying at a Disney resort hotel, your reservation is linked too (that's what gives you the 7-day window).
-- [ ] A payment card is saved in the app, so you're not typing numbers at 7:00:30.
 - [ ] You've decided **who** in the family is booking, so two people don't fight over the same rides.
 - [ ] Your Family Must-Do List (page 4) is printed or open on a second screen.
 - [ ] You know your window date: ____ / ____ and your local time for 7:00 AM ET: ________.
@@ -322,7 +321,7 @@ There's no single right answer. Here's how the choices really compare.
 
 You've got this. And if you'd rather not spend the day doing it, there's another way.
 
-[NOTA: não citei nenhum concorrente pelo nome nem preço de ninguém. Não usar "hack", "bot" como promessa, "skip every line", "VIP" nem "Disney approved".]
+[NOTA: não citei nenhum concorrente pelo nome. Não usar "hack", "bot" como promessa, "skip every line", "VIP" nem "Disney approved".]
 
 ---
 
@@ -380,9 +379,8 @@ LUMI Concierge · Orlando, FL · @[SEM DADO: Instagram] · Text or WhatsApp +1 (
 
 1. **Título:** testar A ("Your First 3 Lightning Lanes Are the Easy Part") contra B ("The Rope Drop Trap"). Recomendo A como controle. Gancho 3 (atração que esgota) fica como alternativa para post e anúncio.
 2. **Regra da 4ª reserva:** o texto diz que a próxima só libera depois de escanear a entrada numa atração reservada (explicação do dono). Conferir no app na semana da publicação; se a regra mudar, ajustar as págs. 3, 5, 7, 8 e 9.
-3. **Preço:** removido do PDF por decisão do dono. A tabela da pág. 9 não tem mais a linha de preço.
-4. **Acesso à conta:** o PDF não diz nada sobre como a LUMI acessa a conta ou como a família paga. Se a cliente perguntar, a resposta fica com o atendimento (vendas-fechamento).
-5. **"Disney" e "Disney World":** usados de forma descritiva no subtítulo e no rodapé. Aviso de não afiliação mantido na capa e no rodapé.
-6. **Link do formulário e @ do Instagram:** [SEM DADO].
-7. **Dado de mercado usado:** só o da Talker Research (80%), com fonte no rodapé da página 2. "Parks often open between 8:00 and 9:30 AM" e "we're in the parks every day" vêm do dono (`contexto/oferta.md`).
-8. **Rider Switch** é nome de serviço da Disney, usado de forma descritiva.
+3. **Acesso à conta:** o PDF não fala de senha, acesso nem pagamento na conta Disney. Se a cliente perguntar, a resposta fica com o atendimento (vendas-fechamento).
+4. **"Disney" e "Disney World":** usados de forma descritiva no subtítulo e no rodapé. Aviso de não afiliação mantido na capa e no rodapé.
+5. **Link do formulário e @ do Instagram:** [SEM DADO].
+6. **Dado de mercado usado:** só o da Talker Research (80%), com fonte no rodapé da página 2. "Parks often open between 8:00 and 9:30 AM" e "we're in the parks every day" vêm do dono (`contexto/oferta.md`).
+7. **Rider Switch** é nome de serviço da Disney, usado de forma descritiva.
