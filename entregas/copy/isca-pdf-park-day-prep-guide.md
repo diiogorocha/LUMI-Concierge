@@ -29,7 +29,7 @@
 ---
 
 **Rodapé de todas as páginas (design):**
-`LUMI Concierge · @[SEM DADO: Instagram da LUMI] · Text or WhatsApp +1 (352) 856-4860 · Independent guide. Not affiliated with, endorsed by, or sponsored by Disney.`
+`LUMI Concierge · @lumiconcierge · Text or WhatsApp +1 (352) 856-4860 · Independent guide. Not affiliated with, endorsed by, or sponsored by Disney.`
 
 ---
 
@@ -56,7 +56,7 @@ Live park-day strategy from a team that has spent 5 years inside the Orlando par
 
 > Independent guide. Not affiliated with, endorsed by, or sponsored by Disney.
 
-[DESIGN: "Disney World" aparece só como texto descritivo, na mesma fonte do resto. Sem logo, castelo, orelhas, personagens, fonte com cara de Disney, mapa oficial ou print do app. Foto própria do expert em área aberta, sem personagem e sem rosto de terceiros.]
+[DESIGN: "Disney World" aparece só como texto descritivo, na mesma fonte do resto. Sem logo, castelo, orelhas, personagens, fonte com cara de Disney, mapa oficial ou print do app. Sem fotos por enquanto (decisão do dono): capa só com tipografia, cores e logo da LUMI.]
 
 ---
 
@@ -259,7 +259,7 @@ The Lightning Lanes for the most-wanted rides can be gone early in the day. If y
 
 **What that looks like when nobody has a strategy:**
 
-[DESIGN: ilustração "Plan on paper vs. the real day", genérica, sem horários. Rotular claramente como EXAMPLE.]
+[DESIGN: ilustração ou diagrama "Plan on paper vs. the real day" (ícones e texto, sem foto), genérica, sem horários. Rotular claramente como EXAMPLE.]
 
 | | What you hoped for | What often happens without a strategy |
 | --- | --- | --- |
@@ -364,13 +364,13 @@ Send us your travel dates, your group size and which parks you're planning. A re
 
 [DESIGN: testar o botão "Text us" no iPhone e no Android antes de publicar. Se o texto pré-preenchido não aparecer no iPhone, trocar `?body=` por `&body=`. QR code apontando para uma página "Text us" com as duas opções, ou direto para o link do WhatsApp.]
 
-**Not ready to chat?** Get a quote by email → [SEM DADO: link do formulário de orçamento]
+**Not ready to chat?** Learn more → [lumi-concierge.com/eua](https://lumi-concierge.com/eua)
 
 *No pressure, no spam. If a live park day isn't right for your trip, we'll tell you.*
 
 ---
 
-LUMI Concierge · Orlando, FL · @[SEM DADO: Instagram] · Text or WhatsApp +1 (352) 856-4860
+LUMI Concierge · Orlando, FL · @lumiconcierge · Text or WhatsApp +1 (352) 856-4860
 **Independent guide. Not affiliated with, endorsed by, or sponsored by Disney.** Disney, Disney World, Lightning Lane, My Disney Experience and attraction names are used only to describe the park experience. All availability and booking rules are set by the parks and may change at any time. Checked October 14, 2026.
 
 ---
@@ -381,6 +381,6 @@ LUMI Concierge · Orlando, FL · @[SEM DADO: Instagram] · Text or WhatsApp +1 (
 2. **Regra da 4ª reserva:** o texto diz que a próxima só libera depois de escanear a entrada numa atração reservada (explicação do dono). Conferir no app na semana da publicação; se a regra mudar, ajustar as págs. 3, 5, 7, 8 e 9.
 3. **Acesso à conta:** o PDF não fala de senha, acesso nem pagamento na conta Disney. Se a cliente perguntar, a resposta fica com o atendimento (vendas-fechamento).
 4. **"Disney" e "Disney World":** usados de forma descritiva no subtítulo e no rodapé. Aviso de não afiliação mantido na capa e no rodapé.
-5. **Link do formulário e @ do Instagram:** [SEM DADO].
+5. **Instagram e site:** @lumiconcierge no rodapé; o CTA secundário "Learn more" aponta para https://lumi-concierge.com/eua (não existe formulário de orçamento).
 6. **Dado de mercado usado:** só o da Talker Research (80%), com fonte no rodapé da página 2. "Parks often open between 8:00 and 9:30 AM" e "we're in the parks every day" vêm do dono (`contexto/oferta.md`).
 7. **Rider Switch** é nome de serviço da Disney, usado de forma descritiva.

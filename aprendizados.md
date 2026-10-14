@@ -90,3 +90,14 @@ Registre aqui, com data, o que funcionou, o que não funcionou e o que o dono pe
 - **Origem:** `entregas/funil-lancamento/funil-isca-pdf-instagram-ingles.md`,
   `entregas/copy/` (PDF, e-mails, posts) e
   `entregas/design-criativos/briefing-pdf-isca-ingles.md`.
+
+## 2026-10-14 — Revisão da isca com retorno do dono
+- **Aprendizado:** gancho escrito com contexto parcial ficou fraco. Antes de
+  escrever copy sobre o mecanismo, ler "Detalhes do funcionamento" em
+  `contexto/oferta.md`. Gancho aplicado: "Your first 3 Lightning Lanes are the
+  easy part" (causa raiz: só 3 reservas antecipadas; a próxima só depois de
+  escanear).
+- **Regra:** nunca escrever "we never ask for your password" ou similar: a LUMI
+  acessa a conta da cliente. Não falar de senha, acesso nem pagamento nos
+  textos. Sem preço no PDF e nos e-mails.
+- **Origem:** conversa com o dono; `entregas/copy/`.

@@ -10,15 +10,15 @@
 >
 > **[CONFERÊNCIA DO SISTEMA]** Conferir no app, antes de publicar, a regra de quando a próxima reserva libera (depois de escanear a entrada numa atração reservada, segundo o dono). Posts 1, 2 e 3 dependem dela.
 >
-> **Formato:** nenhum post exige o expert falando ao vivo ou para a câmera. Tudo é texto na tela sobre vídeo sem rosto, carrossel ou gravação de tela. Voz gerada por IA: decisão do dono [SEM DADO].
+> **Formato:** sem fotos e sem vídeo do parque por enquanto (decisão do dono). Tudo é texto na tela sobre fundo da marca (cores e logo da LUMI), animação simples, ícones ou mockup genérico de celular. Nenhum post exige o expert falando. Voz gerada por IA: decisão do dono [SEM DADO].
 
 **Notas entre colchetes e em português não vão para o post.**
 
 **Gancho principal aplicado (ver as 3 opções no topo do PDF):** "Your first 3 Lightning Lanes are the easy part." Alternativas usadas como ângulo de apoio: rope drop (Post 3) e atração que esgota (Post 4).
 
 **Regras de gravação (todos os posts):**
-- Sem personagens, sem rosto de outras famílias em destaque, sem logo, castelo ou orelhas em close. Preferir mãos com celular, chão do parque, fila vista de trás, céu, carrinho, comida.
-- Regras de filmagem comercial dentro dos parques: [SEM DADO], o dono verifica.
+- Sem fotos e sem filmagem por enquanto. Fundo nas cores da marca, texto animado, ícones simples (relógio, celular, carrinho, bonequinhos) e mockup genérico de celular, sem marca.
+- Sem personagens, logo, castelo, orelhas ou fonte com cara de Disney.
 - Sem print do app da Disney (avaliação jurídica [SEM DADO]). Para "tela de app", usar mockup genérico, sem marca.
 - Prints de conversa com cliente só com autorização [SEM DADO].
 - Áudio: música em alta da biblioteca do Instagram (conta comercial pode ter biblioteca restrita; checar).
@@ -66,20 +66,20 @@
 ## POST 1 · Reels: "Your first 3 Lightning Lanes are the easy part"
 
 **Palavra-chave:** **THREE**
-**Formato:** Reels 9:16, 25–30 s, texto na tela sobre vídeo do parque gravado pelo expert (sem rosto, sem fala)
+**Formato:** Reels 9:16, 25–30 s, texto animado sobre fundo da marca com ícones simples (sem foto, sem vídeo do parque, sem fala)
 **Teste:** gancho de mecanismo/notícia (comparar com o Post 3, gancho de cena do rope drop)
 
 **Roteiro (texto na tela):**
 
-| Tela | Tempo | Imagem [sugestão] | Texto na tela |
+| Tela | Tempo | Visual [sugestão, sem foto] | Texto na tela |
 | --- | --- | --- | --- |
-| 1 | 0–3 s | Mãos segurando o celular, portão de entrada ao fundo, desfocado | **Your first 3 Lightning Lanes are the easy part.** |
-| 2 | 3–6 s | Close do celular (mockup genérico) | You book those from home, at 7 AM. |
-| 3 | 6–10 s | Família de costas caminhando | **The next one? Only after you scan in at a ride.** |
-| 4 | 10–14 s | Relógio do parque ou céu passando | So if your first ride is late, everything after it is late too. |
-| 5 | 14–18 s | Multidão de longe | The later it gets, the later the times, and the fuller the park. |
-| 6 | 18–22 s | Caminho longo, carrinho de costas | Rides far apart? Every walk pushes your next time further away. |
-| 7 | 22–26 s | Fila longa vista de trás | And some must-do rides run out early. Then it's standby, or skip it. |
+| 1 | 0–3 s | Fundo azul-marinho da marca, texto grande entrando | **Your first 3 Lightning Lanes are the easy part.** |
+| 2 | 3–6 s | Mockup genérico de celular com 3 ícones de "check" | You book those from home, at 7 AM. |
+| 3 | 6–10 s | Ícone de cadeado no 4º espaço, que abre com um "scan" | **The next one? Only after you scan in at a ride.** |
+| 4 | 10–14 s | Ícone de relógio com ponteiros girando | So if your first ride is late, everything after it is late too. |
+| 5 | 14–18 s | Barra de "lotação" enchendo | The later it gets, the later the times, and the fuller the park. |
+| 6 | 18–22 s | Mapa genérico (não oficial) com seta longa de um lado ao outro | Rides far apart? Every walk pushes your next time further away. |
+| 7 | 22–26 s | Ícone de atração com selo "sold out" genérico | And some must-do rides run out early. Then it's standby, or skip it. |
 | 8 | 26–30 s | Fundo da marca | The real game is everything after your first 3. Comment **THREE** for the free prep guide |
 
 **Legenda:**
@@ -102,6 +102,8 @@ Our team put together a free guide for the family's designated planner: your Fam
 
 💬 Comment **THREE** and we'll send it to your DMs.
 
+More at lumi-concierge.com/eua · @lumiconcierge
+
 Independent service. Not affiliated with, endorsed by, or sponsored by Disney.
 
 `#disneyworld #disneyworldtips #lightninglane #familyvacation #tripplanning #momlife`
@@ -111,7 +113,7 @@ Independent service. Not affiliated with, endorsed by, or sponsored by Disney.
 ## POST 2 · Carrossel: "3 things to do before your booking window opens"
 
 **Palavra-chave:** **PREP**
-**Formato:** carrossel 4:5, 8 telas, só texto e ícones simples
+**Formato:** carrossel 4:5, 8 telas, só texto e ícones simples nas cores da marca
 
 | Tela | Texto |
 | --- | --- |
@@ -146,17 +148,17 @@ Independent service. Not affiliated with, endorsed by, or sponsored by Disney.
 ## POST 3 · Reels "POV": the rope drop trap
 
 **Palavra-chave:** **PREP**
-**Formato:** Reels 9:16, 15–20 s, texto na tela + música em alta, sem fala
+**Formato:** Reels 9:16, 15–20 s, texto animado sobre fundo da marca + música em alta, sem foto e sem fala
 **Teste:** gancho de cena/identidade (comparar com o Post 1)
 
-| Tela | Tempo | Imagem [sugestão] | Texto na tela |
+| Tela | Tempo | Visual [sugestão, sem foto] | Texto na tela |
 | --- | --- | --- | --- |
-| 1 | 0–3 s | Portão do parque ao amanhecer, sem logo em destaque | **POV: you got the whole family to Disney at rope drop** |
-| 2 | 3–6 s | Fila curta vista de trás | Two short standby lines. You feel like a genius. |
-| 3 | 6–9 s | Mão com celular, polegar parado | …then you wait for your first Lightning Lane… |
-| 4 | 9–12 s | Celular de novo, outro ângulo | …and you can't book the next one until you use it. |
-| 5 | 12–15 s | Criança de costas apontando para algo (filho do expert ou família com autorização) | Meanwhile, the ride your kids want most is running out. |
-| 6 | 15–18 s | Câmera se afasta do celular e sobe para o céu | **What if someone else held the phone?** Comment **PREP** for the free prep guide |
+| 1 | 0–3 s | Fundo creme da marca, ícone de sol nascendo | **POV: you got the whole family to Disney at rope drop** |
+| 2 | 3–6 s | Dois ícones de fila curta com "check" | Two short standby lines. You feel like a genius. |
+| 3 | 6–9 s | Mockup genérico de celular com relógio de espera | …then you wait for your first Lightning Lane… |
+| 4 | 9–12 s | Mesmo mockup, ícone de cadeado no próximo espaço | …and you can't book the next one until you use it. |
+| 5 | 12–15 s | Ícone de atração com barra de disponibilidade esvaziando | Meanwhile, the ride your kids want most is running out. |
+| 6 | 15–18 s | Celular sai de cena; fundo da marca com logo | **What if someone else held the phone?** Comment **PREP** for the free prep guide |
 
 **Legenda:**
 
@@ -176,14 +178,14 @@ Independent service. Not affiliated with, endorsed by, or sponsored by Disney.
 
 `#ropedrop #disneyworld #designatedplanner #momlife #familyvacation #tripplanning`
 
-[NOTA: só usar imagem de criança com autorização dos pais. Sem rosto de outras famílias.]
+[NOTA: quando houver fotos/vídeos, imagem de criança só com autorização dos pais e sem rosto de outras famílias.]
 
 ---
 
 ## POST 4 · Carrossel comparativo: "App vs. human"
 
 **Palavra-chave:** **PLAN**
-**Formato:** carrossel 4:5, 8 telas
+**Formato:** carrossel 4:5, 8 telas, só texto e ícones nas cores da marca
 [Sem citar nenhuma empresa ou app pelo nome. Não usar "bot" como promessa nem "hack".]
 
 | Tela | Texto |
@@ -265,8 +267,8 @@ Fixar no perfil o que tiver mais comentários com palavra-chave por mil de alcan
 
 ## Pendências para o dono
 
-1. [SEM DADO] @ do Instagram, link da página de captura e UTMs.
-2. [SEM DADO] Regras de filmagem comercial nos parques e autorização de imagem de crianças.
+1. [SEM DADO] Link da página de captura e UTMs. Instagram: @lumiconcierge. Site para "Learn more": https://lumi-concierge.com/eua.
+2. Fotos e vídeos: nenhum por enquanto (decisão do dono). Quando houver, checar regras de filmagem comercial nos parques e autorização de imagem de crianças [SEM DADO].
 3. [SEM DADO] Uso de voz gerada por IA (por padrão, nenhum post tem voz).
 4. [SEM DADO: depoimento do cliente com autorização] Nenhum post usa prova social até o dono enviar avaliações em inglês autorizadas.
 5. Conferir no app a regra de quando a próxima reserva libera (Posts 1, 2 e 3).

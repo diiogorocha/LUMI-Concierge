@@ -309,3 +309,14 @@ Todas as metas abaixo são **[HIPÓTESE]**: não há histórico da LUMI em ingl�
 - Janelas de reserva: [planDisney](https://plandisney.disney.go.com/question/daughter-taking-great-grandson-dont-know-start-plan-day-638979/)
 - Termo "designated person": [MickeyVisit](https://mickeyvisit.com/disney-world-standby-skipper-september-4-2026/)
 - Antecedência (relato): [MousePlanet](https://mouseplanet.com/planning-a-disney-themed-vacation-how-long-does-it-take/3854)
+
+---
+
+## Atualização 2026-10-14 (após revisão de copy com retorno do dono)
+
+- **Palavras-chave:** 10AM foi trocada por **THREE** (Post 1). Ficam THREE, PREP e PLAN.
+- **Títulos do PDF (substituem a seção 3.2):** A "Your First 3 Lightning Lanes Are the Easy Part"; B "The Rope Drop Trap". Textos finais em `entregas/copy/isca-pdf-park-day-prep-guide.md`.
+- **Sem preço** no PDF e nos e-mails; **sem menção** a acesso à conta, senha ou pagamento.
+- **Sem formulário de orçamento:** CTA secundário "Learn more" → https://lumi-concierge.com/eua. A data da viagem é coletada por resposta ao e-mail.
+- **E-mails por data da viagem:** envio manual, como teste (sem ferramenta de disparo por data). Calendário e planilha de controle em `entregas/copy/emails-sequencia-isca-ingles.md`.
+- **Contato:** SMS e WhatsApp Business +1 (352) 856-4860; Instagram @lumiconcierge.

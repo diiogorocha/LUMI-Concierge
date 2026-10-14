@@ -21,15 +21,15 @@
 - `[LINK_SMS]` = `sms:+13528564860?body=Hi%20LUMI!%20PREP%20guide.%20Our%20dates%20are...` [testar no iPhone; se o texto não aparecer, trocar `?body=` por `&body=`. Alguns apps de e-mail bloqueiam links `sms:`; por isso o número também aparece escrito.]
 - `[LINK_WHATSAPP]` = `https://wa.me/13528564860?text=Hi%20LUMI!%20PREP%20guide.%20Our%20dates%20are...`
 - `[LINK_PDF]` download do guia [SEM DADO]
-- `[LINK_FORM]` formulário curto de orçamento [SEM DADO]
-- `[LINK_DATE]` formulário de 1 campo para informar a data da viagem e onde vai ficar [SEM DADO; se não existir, o CTA vira "just hit reply"]
+- `[LINK_SITE]` = `https://lumi-concierge.com/eua` (site da LUMI; não existe formulário de orçamento)
+- Data da viagem: coletada por resposta ao e-mail (não há formulário de data).
 
 **Rodapé padrão (todo e-mail):**
 
 > You're getting this because you downloaded the Park Day Prep Guide from LUMI Concierge.
-> LUMI Concierge · Orlando, FL · Text or WhatsApp +1 (352) 856-4860
+> LUMI Concierge · Orlando, FL · Text or WhatsApp +1 (352) 856-4860 · Instagram @lumiconcierge
 > Independent service. Not affiliated with, endorsed by, or sponsored by Disney.
-> [Unsubscribe] · [Update your trip dates]
+> [Unsubscribe] · Reply anytime with your trip dates
 
 [No envio manual, o "Unsubscribe" pode ser a frase "Reply STOP and I'll take you off the list." Quem pedir para sair é marcado na planilha e nunca mais recebe.]
 
@@ -89,7 +89,7 @@
 | T4 enviado em | |
 | Último M enviado em | |
 | Respondeu? (data e canal) | 2026-10-23, e-mail |
-| Conversa iniciada | WhatsApp / SMS / formulário / não |
+| Conversa iniciada | WhatsApp / SMS / resposta ao e-mail / não |
 | Fechou? (S/N, nº de dias de parque) | |
 | Descadastrou? | S/N |
 | Observações | o must-do que ela contou no e-mail 0 |
@@ -144,7 +144,7 @@ Talk soon,
 [NOME]
 LUMI Concierge
 
-P.S. If you didn't add your trip dates when you signed up, just reply with them (or add them here: [LINK_DATE]). Tell me if you're staying at a Disney resort hotel or somewhere else, too. That way I can send you the right checklist right before your booking window opens, instead of guessing.
+P.S. If you didn't add your trip dates when you signed up, just reply with them. Tell me if you're staying at a Disney resort hotel or somewhere else, too. That way I can send you the right checklist right before your booking window opens, instead of guessing.
 
 ---
 
@@ -308,7 +308,7 @@ Neither one is wrong. It just depends on how you want to spend the day you've be
 **[WhatsApp us →]** ([LINK_WHATSAPP])
 Or save the number: **+1 (352) 856-4860** (text or WhatsApp)
 
-Not ready to chat? **[Get a quote by email →]** ([LINK_FORM])
+Not ready to chat? **[Learn more →]** ([LINK_SITE])
 
 Either way, I'm rooting for you. And I'd still love to hear your kids' #1 must-do if you haven't told me yet.
 
@@ -484,7 +484,7 @@ Quick one today: one tip and one question.
 
 **And the question:** when's your trip?
 
-Just reply with your month (or your dates, if you have them), or add them here: [LINK_DATE].
+Just reply with your month (or your dates, if you have them).
 
 Booking windows open 7 days before check-in for Disney resort hotel guests and 3 days before each park day for everyone else, at 7:00 AM Eastern. If I know your dates, I can send you the right checklist at the right time, instead of guessing.
 
@@ -496,7 +496,7 @@ LUMI Concierge
 ## Pendências para o dono (não vão nos e-mails)
 
 1. **Endereço postal (CAN-SPAM):** ver a nota no topo. Decidir antes de enviar em escala.
-2. [SEM DADO] Primeiro nome do remetente, link do PDF, link do formulário de orçamento e do formulário de data.
+2. [SEM DADO] Primeiro nome do remetente e link do PDF.
 3. [SEM DADO] Capacidade de atendimento no dia (afeta o T4).
 4. [SEM DADO: depoimento do cliente com autorização] no e-mail 3.
 5. Montar a planilha de controle com as colunas acima e testar os links de SMS e WhatsApp no iPhone e no Android.
