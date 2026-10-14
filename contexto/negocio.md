@@ -18,7 +18,11 @@
 - **Ticket (preço por dia/parque):** 1 a 3 pessoas $200; 4 a 5 pessoas $250;
   de 6 a 10 pessoas, + $50 por pessoa (6 = $300 … 10 = $500). [PREMISSA: o
   acréscimo conta a partir da 6ª pessoa.]
-- **Canais:** Instagram e TikTok.
+- **Canais:** Instagram e TikTok. O Instagram da LUMI é recente e está sendo
+  construído em inglês, para atrair o público americano (informado pelo dono,
+  2026-10-14).
+- **Restrição:** o expert ainda não se sente confortável fazendo conteúdo ao
+  vivo em inglês. Preferir formatos escritos ou gravados (2026-10-14).
 - **Concorrentes brasileiros que divulgam guiamento virtual (citados pelo dono,
   2026-10-14):** Wishes, Be Traveler, Purple Magical Tours, Mimotrips, Dri Muniz,
   Gio Concierge. Preços e ofertas de cada um: [SEM DADO].
