@@ -21,6 +21,10 @@
 - **Canais:** Instagram e TikTok. O Instagram da LUMI é recente e está sendo
   construído em inglês, para atrair o público americano (informado pelo dono,
   2026-10-14).
+- **Contato (EUA):** +1 (352) 856-4860, para SMS e WhatsApp Business.
+- **Endereço físico:** não há (decisão do dono, 2026-10-14).
+- **Ferramenta de e-mail:** por enquanto nenhuma com disparo por data; os
+  e-mails ligados à data da viagem serão enviados manualmente, como teste.
 - **Restrição:** o expert ainda não se sente confortável fazendo conteúdo ao
   vivo em inglês. Preferir formatos escritos ou gravados (2026-10-14).
 - **Concorrentes brasileiros que divulgam guiamento virtual (citados pelo dono,
