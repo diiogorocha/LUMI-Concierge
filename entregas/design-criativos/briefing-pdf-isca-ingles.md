@@ -187,7 +187,7 @@ Convenção das colunas: `c1–c12`. Textos entre aspas são placeholders do fun
 ### Página 1: Capa
 - **Fundo:** Creme, com um bloco **Marinho** ocupando o terço inferior (sangria na versão digital).
 - **Topo (c1–c8):** faixa "FREE PREP GUIDE" (versalete 10 pt, Acinzentado).
-- **Título (c1–c10), 48 pt, Libre Caslon Display, Marinho:** opção 1 "Why Your Park Day Plan Falls Apart by 10 AM" ou opção 2 "The Designated Planner's Park Day Prep Guide". O dono ainda escolhe [SEM DADO]. Diagramar as duas: a opção 1 cabe em 3 linhas; a opção 2, em 3 a 4 linhas a 44 pt. Opcional: uma palavra do título em Dourado (texto ≥ 18 pt, passa), por exemplo "10 AM".
+- **Título (c1–c10), 48 pt, Libre Caslon Display, Marinho:** opção A "Your First 3 Lightning Lanes Are the Easy Part" ou opção B "The Rope Drop Trap" (títulos revisados; textos e subtítulos em `entregas/copy/isca-pdf-park-day-prep-guide.md`). Diagramar as duas para o teste A/B, ajustando o corpo (44–48 pt) para caber em até 4 linhas. Opcional: uma palavra do título em Dourado (texto ≥ 18 pt, passa), por exemplo "3" ou "Rope Drop".
 - **Subtítulo (c1–c9), 16 pt, Acinzentado.**
 - **Elemento visual (c7–c12, meia altura):** uma **prévia miniatura do diagrama da página 7** (duas barras: uma com buraco hachurado dourado, outra contínua em Marinho), sem números. Isso planta o mecanismo já na capa. Alternativa com foto: foto própria genérica (mesa com mochila, garrafa e celular de tela apagada) [SEM DADO foto].
 - **Dentro do bloco Marinho:** logo **invertido** (Creme + estrela Dourada) [PENDENTE DESIGNER; enquanto não existir, ver seção 2.4] e, abaixo, o aviso de não afiliação em Creme, 10,5 pt (11,0:1).
@@ -408,7 +408,7 @@ B  "Someone re-booking earlier all day"
 
 ## 9. Peças para o Instagram
 
-O funil usa comentário com palavra-chave (PREP / 10AM / PLAN) e DM com o link [FATO funil]. As peças mostram o PDF como objeto real e desejável e trazem o CTA do post.
+O funil usa comentário com palavra-chave (PREP / THREE / PLAN) e DM com o link [FATO funil]. As peças mostram o PDF como objeto real e desejável e trazem o CTA do post.
 
 ### 9.1 Feed 1080 x 1350 (4:5)
 - **Composição:** fundo **Creme `#FEFAEF`**. Mockup da capa do PDF (com o bloco Marinho embaixo) levemente inclinado (5 a 8°), com sombra suave Marinho a 15% de opacidade, ocupando 60% da altura, mais 2 páginas internas atrás em leque (páginas 4 e 7: a planilha e o diagrama dourado/marinho são as mais "vendedoras").
@@ -491,7 +491,7 @@ Estrutura do Visual Generator: assunto, estilo, clima, luz, composição, paleta
 
 **Instagram**
 - [ ] Mockup 1080 x 1350 (feed) e 1080 x 1920 (Stories e capa de Reels), PNG, em Creme/Marinho/Dourado, mais uma versão sem texto para reaproveitar.
-- [ ] Uma versão de CTA para cada palavra-chave em uso (PREP / 10AM / PLAN).
+- [ ] Uma versão de CTA para cada palavra-chave em uso (PREP / THREE / PLAN).
 - [ ] Texto dentro das áreas seguras; aviso de independência na peça e na legenda.
 
 ---
