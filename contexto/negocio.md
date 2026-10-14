@@ -6,6 +6,10 @@
   virtual nos parques da Disney.
 - **Para quem?** Mães que querem proporcionar uma viagem à Disney para os
   filhos (detalhes em `publico.md`).
+- **Foco de mercado (decisão do dono, 2026-10-14):** priorizar o público
+  falante de inglês (EUA, Reino Unido, Canadá etc.) para ter mais oportunidade
+  de captação e fugir da concorrência de preço com o guiamento remoto
+  brasileiro. O público brasileiro continua sendo atendido.
 - **Como entrega?** Acompanhamento virtual em grupo de WhatsApp, de 6 a 7 horas
   por parque: agendamento de todas as filas rápidas a partir da lista de
   prioridades do cliente, estratégia de ordem das atrações e ajuste do roteiro

@@ -2,6 +2,9 @@
 
 > Preencha com dados reais. O que estiver vazio, os squads perguntam antes de usar.
 
+- **Foco atual (2026-10-14):** mães falantes de inglês (EUA, Reino Unido,
+  Canadá etc.). O que está abaixo foi levantado com o público brasileiro e
+  precisa ser revalidado para esse público.
 - **Cliente ideal:** mães que querem proporcionar uma viagem à Disney para os
   filhos. Dois perfis:
   - primeira viagem à Disney;
