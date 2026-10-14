@@ -19,3 +19,20 @@ Registre aqui, com data, o que funcionou, o que não funcionou e o que o dono pe
   (setor pesquisa-publico; WebSearch com fontes citadas).
 - **Obs.:** `entregas/README.md` cita a pasta `pesquisa`; esta entrega foi salva
   em `pesquisa-publico` a pedido. Padronizar uma das duas.
+
+## 2026-10-14 — Mercado de língua inglesa (concorrentes e público)
+- **Aprendizado:** em inglês, o guiamento remoto humano custa de US$ 250 a mais
+  de US$ 1.000/dia, preço fixo por grupo de até 10–12 pessoas. A LUMI é a opção
+  humana mais barata para até 5 pessoas. O concorrente que cresce é o robô de
+  reserva (US$ 20–45). Mensagem: "o robô reserva, a LUMI decide e ajusta o dia",
+  não "fura-fila"; vender identidade da mãe ("be in the photos, not on the app").
+- **Regra operacional:** nunca pedir senha do My Disney Experience nem usar
+  automação (termos da Disney proíbem); usar Family & Friends, que é zona
+  cinzenta para uso comercial. Consultar advogado nos EUA.
+- **Aprendizado:** WhatsApp é padrão no Reino Unido, mas minoria nos EUA (32%);
+  escolher canal por país (SMS/iMessage nos EUA).
+- **Aprendizado de pesquisa:** o Reddit bloqueia leitura automática nas sessões;
+  TouringPlans, WDWMagic, EarScouts, planDisney e Mumsnet abrem e rendem frases reais.
+- **Origem:** `entregas/pesquisa-publico/concorrentes-eua-guiamento-disney.md` e
+  `entregas/pesquisa-publico/pesquisa-publico-maes-ingles-disney.md`
+  (setor pesquisa-publico; WebSearch com fontes citadas).
