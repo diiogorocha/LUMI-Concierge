@@ -73,3 +73,20 @@ Registre aqui, com data, o que funcionou, o que não funcionou e o que o dono pe
   ao vivo), nunca como substituto do guiamento.
 - **Origem:** conversa com o dono; revisão na seção 9 de
   `entregas/oferta-preco/produto-digital-maes-ingles-disney.md`.
+
+## 2026-10-14 — Isca PDF em inglês (funil, copy, design)
+- **Aprendizado:** o público planeja 6–12 meses antes, então a isca serve para
+  coletar a data da viagem (idealmente check-in e onde vai se hospedar). O
+  convite que mais tende a converter sai perto das janelas de 7 e 3 dias, não
+  nas boas-vindas. Exige ferramenta de e-mail que dispare por data
+  [confirmar na ferramenta].
+- **Aprendizado:** a copy em inglês gira em torno do mecanismo do dono
+  ("You walk in at 9:00. Your next ride is 2 hours away." / "no dead time"),
+  sem prometer horário, ordem nem número de atrações. Aviso de não afiliação à
+  Disney em capa, rodapés, e-mails e legendas.
+- **Aprendizado:** o Canva não deve gerar campos preenchíveis; a versão
+  preenchível do PDF precisa de editor de PDF à parte. Textos em inglês exigem
+  revisão de falante nativo antes de publicar.
+- **Origem:** `entregas/funil-lancamento/funil-isca-pdf-instagram-ingles.md`,
+  `entregas/copy/` (PDF, e-mails, posts) e
+  `entregas/design-criativos/briefing-pdf-isca-ingles.md`.
