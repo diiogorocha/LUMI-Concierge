@@ -24,7 +24,7 @@
 - **Instagram:** @lumiconcierge
 - **Site (EUA, feito no Framer):** https://lumi-concierge.com/eua. Não há
   formulário de orçamento; o site é o link de "saiba mais".
-- **Fotos próprias:** nenhuma por enquanto.
+- **Fotos próprias:** existem, feitas nos parques, não profissionais (dono, 2026-10-14). Ainda não enviadas.
 - **Contato (EUA):** +1 (352) 856-4860, para SMS e WhatsApp Business.
 - **Endereço físico:** não há (decisão do dono, 2026-10-14).
 - **Ferramenta de e-mail:** por enquanto nenhuma com disparo por data; os
