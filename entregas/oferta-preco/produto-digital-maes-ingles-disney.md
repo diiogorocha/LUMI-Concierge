@@ -253,3 +253,43 @@ Se der certo, o passo seguinte é **padronizar o modelo** (biblioteca de blocos 
 - [Resorts Gal: curso grátis](https://resortsgal.com/free-disney-world-quick-start-course)
 - [CourseStorm: aula grátis "Magic of Disney: Planning Made Easy"](https://noble.coursestorm.com/course/the-magic-of-disney-planning-made-easy)
 - [Disney Tourist Blog: aumento de Single e Premier Pass](https://www.disneytouristblog.com/disney-world-raises-lightning-lane-single-pass-prices-to-new-highs-50-increase-on-premier-still-to-come/)
+
+
+---
+
+## 9. Revisão após retorno do dono (2026-10-14)
+
+**O Priority Park Plan (ideia C) foi descartado.** O dono explicou que não dá
+para entregar por escrito horários de agendamento nem ordem de atrações:
+
+- os horários disponíveis vão ficando para mais tarde ao longo do dia;
+- quanto maior a família, mais difícil conseguir horário cedo;
+- o objetivo é ter cada próxima atração agendada para poucos minutos depois da
+  anterior, e isso exige ficar no sistema trocando reservas para horários mais
+  cedo, o dia todo;
+- lotação, disponibilidade e atração fechada mudam a cada dia.
+
+Um plano fixo prometeria algo que a realidade do dia desfaz. Isso também
+enfraquece as ideias A (guia por parque) e D (planilha), que dependem de
+roteiro fixo.
+
+**Recomendação revisada:**
+
+1. **Não criar agora um produto digital pago que substitua o guiamento.** O
+   valor da LUMI é o acompanhamento contínuo; qualquer versão estática vira
+   commodity (grátis a US$ 27) ou promete o que não consegue cumprir.
+2. **Usar o digital como porta de entrada gratuita**, em inglês: um guia curto
+   ou vídeo que explica *por que* um plano fixo falha (horários que empurram
+   para mais tarde, família grande, tempo morto entre a chegada e a primeira
+   atração). Ele educa um mercado que mal conhece o guiamento remoto e termina
+   no convite para o serviço ao vivo. Gera lista de e-mails e audiência, que a
+   LUMI ainda não tem em inglês.
+3. **Se quiser algo pago e barato (opcional):** workshop ao vivo antes da
+   viagem (ideia E), que ensina o *método* (como pensar a ordem, como trocar
+   reservas para mais cedo), sem prometer horários, com o valor creditado no
+   guiamento. Preço: [SEM DADO], a validar. Risco: concorre com YouTube grátis.
+4. **Se a objeção for preço, a resposta é um formato menor do serviço, não um
+   produto digital** [HIPÓTESE]: por exemplo, só a manhã ou meio período. Há
+   referência de mercado: Lightning Reservations cobra US$ 199 só pelas
+   reservas das 7h (ver `entregas/pesquisa-publico/concorrentes-eua-guiamento-disney.md`).
+   Decisão do dono; levar ao setor oferta-preco se quiser seguir.

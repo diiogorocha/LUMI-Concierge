@@ -61,3 +61,15 @@ Registre aqui, com data, o que funcionou, o que não funcionou e o que o dono pe
   Friends & Family.
 - **Origem:** `entregas/oferta-preco/produto-digital-maes-ingles-disney.md`
   (setor oferta-preco; preços de mercado com fonte).
+
+## 2026-10-14 — Retorno do dono sobre produto digital
+- **Aprendizado:** não propor produto que entregue horários ou ordem fixa de
+  atrações por escrito. O dono explicou que isso é dinâmico (horários vão para
+  mais tarde, família grande tem mais dificuldade, lotação e atração fechada
+  mudam o dia). O valor da LUMI é ficar no sistema trocando reservas para
+  horários mais cedo, sem tempo morto entre atrações. Mecanismo registrado em
+  `contexto/oferta.md`.
+- **Consequência:** produto digital só como porta de entrada (educa e leva ao
+  ao vivo), nunca como substituto do guiamento.
+- **Origem:** conversa com o dono; revisão na seção 9 de
+  `entregas/oferta-preco/produto-digital-maes-ingles-disney.md`.
