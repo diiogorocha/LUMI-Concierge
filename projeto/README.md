@@ -16,9 +16,9 @@ sequência, recriar as tabelas de preço como documento.
 **Etapas:**
 1. Guia de identidade visual (setor design-criativos). Aprovado em
    2026-10-23: `entregas/design-criativos/2026-10-23-identidade-visual.md`.
-2. Recriar as tabelas de preço com a nova identidade. Entregue em
-   `entregas/design-criativos/tabelas-2026-10-23/` (PNG e PDF); aguarda a
-   aprovação da dona.
+2. Recriar as tabelas de preço com a nova identidade. Aprovado em
+   2026-10-23: 6 tabelas (PNG e PDF) em
+   `entregas/design-criativos/tabelas-2026-10-23/`.
 3. Carrossel e templates de post: depois (a dona não gostou da versão de
    carrossel da prévia).
 
