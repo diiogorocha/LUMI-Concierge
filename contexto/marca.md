@@ -17,6 +17,12 @@
   `contexto/marca/logo-lumi-positivo-transparente.png` (marinho, para fundo
   claro) e `contexto/marca/logo-lumi-invertido-transparente.png` (creme com
   estrela dourada, para fundo escuro). Para impressão, pedir versão vetorial.
+- **Versão com fundo azul (1254x1254, enviada em 2026-10-23):**
+  `contexto/marca/logo-lumi-fundo-azul.webp`. Letras em creme, estrela
+  dourada, fundo azul ~`#0B355A` (um pouco mais escuro que o marinho do logo).
+  A dona usa mais a versão com fundo bege. A dona tem 4 arquivos de logo no
+  total (azul, bege e os dois sem fundo), todos gerados por IA e sem versão
+  vetorial nem PDF.
 - **Cores (amostradas do logo, aproximadas):** azul-marinho `#0F3C5D`, azul
   acinzentado `#395B74`, dourado `#B68237`, creme `#FEFAEF`. Confirmar os
   códigos exatos com quem fez o logo.
