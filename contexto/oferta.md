@@ -94,7 +94,7 @@ A comissão é paga a cada indicação confirmada.
 - Acima de 10 pessoas (Brasil e presencial): existe, seguindo a mesma lógica
   de acréscimo, mas a tabela ainda não foi estruturada pela dona. Não
   publicar valores acima de 10 até ela definir.
-- Duração do tour presencial: [SEM DADO].
+- O tour presencial dura 6 horas, como o virtual.
 
 ### Pagamento e cancelamento (dona, 2026-10-23)
 - **Formas:** boleto, Pix ou parcelado por link enviado mês a mês.
@@ -127,7 +127,8 @@ Preços dos outros serviços: [SEM DADO].
 - Depoimentos publicados no site: Nathalia Pereira, Vanessa Vale, Katie
   Logan, Alex Sanchez e Beatriz Arantes. Estão em português em
   https://lumi-concierge.com/ e traduzidos em /eua. A dona diz ter
-  "alguns, poucos". Confirmar se o uso está autorizado. O mais forte é o de
+  "alguns, poucos". Uso autorizado pela dona (2026-10-23), tanto os do
+  site quanto os do Google Business (link do perfil: [SEM DADO]). O mais forte é o de
   Beatriz Arantes: "Já conhecíamos a Disney, mas foi a primeira vez com
   acompanhamento nos parques e fez toda a diferença. [...] conseguimos fazer
   tudo sem filas, exatamente como queríamos. Não voltamos à Disney sem vocês!"
