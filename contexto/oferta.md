@@ -85,11 +85,16 @@ A comissão é paga a cada indicação confirmada.
 | 6 a 7 | $550 |
 | 8 a 10 | $700 |
 
-**Em aberto:**
-- O cliente brasileiro que chega direto, sem agência, paga a tabela Brasil?
-- A cobrança no Brasil é em dólar ou convertida para real? Com qual cotação?
-- A tabela do presencial vale para todos os mercados? Quanto dura o tour?
-- Acima de 10 pessoas no Brasil e no presencial: [SEM DADO].
+**Regras (dona, 2026-10-23):**
+- As tabelas acima são a fonte oficial dos preços.
+- Cliente brasileiro que chega direto, sem agência, paga a tabela Brasil.
+- No Brasil, o valor em dólar é convertido para real pela cotação do dia.
+- O tour presencial vale para os dois públicos, brasileiro e americano. Quem
+  faz é a dona ou um guia da equipe.
+- Acima de 10 pessoas (Brasil e presencial): existe, seguindo a mesma lógica
+  de acréscimo, mas a tabela ainda não foi estruturada pela dona. Não
+  publicar valores acima de 10 até ela definir.
+- Duração do tour presencial: [SEM DADO].
 
 ### Pagamento e cancelamento (dona, 2026-10-23)
 - **Formas:** boleto, Pix ou parcelado por link enviado mês a mês.
