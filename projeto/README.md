@@ -31,6 +31,8 @@ sequência, recriar as tabelas de preço como documento.
 | 2026-10-23 | Tabelas a fazer: presencial; virtual Brasil; virtual americanos; virtual Brasil para parceiros (com comissão de 15%) | Dona |
 | 2026-10-23 | Formato das tabelas: imagem para WhatsApp e PDF para parceiros e e-mail | Sugerido pelo Claude, a confirmar pela dona |
 | 2026-10-23 | Tabelas diretas, no tamanho das tabelas originais da dona: logo e letras pequenos, sem sobretítulo, frase de apoio, nota ou contato no rodapé | Dona ("Letras e logos muito grandes [...] Tem que ser direta. Siga a referência que eu te mandei") |
+| 2026-10-23 | Padrão de título das tabelas: sobretítulo dourado em caixa alta com o nome do serviço, título curto, caixa de nota só quando houver nota, rodapé com a estrela + "Valor por parque, por dia" | Dona ("gosto daquela letra em caps lock, dourado"; "a estrelinha embaixo [...] valor por parque por dia") |
+| 2026-10-23 | Nomes dos serviços: PT "Tour Presencial" e "Guiamento Virtual"; EN "In-Person Park Tour" e "Virtual Park Guidance" | Sugerido pelo Claude, a confirmar pela dona |
 | 2026-10-23 | A dona não tem Canva Pro: usar o caminho da conta gratuita | Dona |
 
 ## Ideias da dona (ainda não decididas)
