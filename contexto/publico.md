@@ -11,8 +11,10 @@
 - **Momento:**
   - primeira viagem à Disney;
   - já foram, sabem como funciona e não querem passar perrengue.
-- **Perfil "faz e vai embora":** há família (cliente recorrente) que quer fazer
-  os brinquedos e voltar cedo para a casa de férias, para churrasco e piscina.
+- **Perfil "faz e vai embora":** família que quer fazer as atrações o mais
+  rápido possível, às vezes em menos tempo que as 6 horas do tour, para voltar
+  à casa de férias e aproveitar o resto do dia (piscina, churrasco, família).
+  A LUMI já atendeu família assim, com frequência.
 - **Quem decide:** a mãe costuma ser quem organiza a viagem.
 - **Idade, profissão, renda:** [SEM DADO]
 

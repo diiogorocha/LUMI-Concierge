@@ -41,11 +41,27 @@
 - **Como chegam:** indicação.
 - **Parcerias com agências:** 2, em Botucatu (SP), ainda com pouco fluxo de
   clientes para a Disney. Não há parceria forte consolidada.
-- **Instagram:** @lumiconcierge, começou a ser construído em outubro/2026
-  (menos de 1 mês). Conteúdo feito em inglês até agora.
+- **Instagram:** @lumiconcierge, começou a ser construído em outubro/2026.
+  Em 2026-10-23: 35 seguidores, 3 seguindo. Bio em inglês: "Lumi | Disney &
+  Orlando Concierge / Making your Orlando experience feel easier ✨ / We take
+  care of the details, so you can enjoy every moment." Link:
+  linktr.ee/lumiconcierge. Posts vistos: "3 restaurants that are incredibly
+  hard to book", "What is Disney like in November", "Travel feels even [...]
+  when you have someone to count on", "Skip the line when ordering food at
+  Disney", além de Reels.
 - **TikTok:** citado como canal; status atual [SEM DADO].
-- **Site (Framer):** https://lumi-concierge.com/eua, em inglês. Sem
-  formulário; tem Pixel da Meta instalado.
+- **Site (Framer):** em português em https://lumi-concierge.com/ e em inglês
+  em https://lumi-concierge.com/eua. Tem Pixel da Meta. A versão em inglês tem
+  formulário de contato (nome, telefone, e-mail, mensagem); a em português
+  leva ao WhatsApp. FAQ: precisa acompanhar o app? (não); é personalizado?;
+  funciona fora de hotel Disney? (sim); vende ingressos? (sim).
+- **Apresentações em PDF (7 páginas, português):**
+  `contexto/materiais/apresentacao-cliente-pt.pdf` (para famílias) e
+  `contexto/materiais/apresentacao-agencias-pt.pdf` (para agências: "um
+  serviço que complementa a experiência que sua agência já oferece"). Roteiro
+  das duas: desafio → solução → como funciona (antes da viagem / no dia) →
+  história desde 2021 → contato. Não trazem preço, depoimentos nem serviços
+  complementares.
 - **Contato (EUA):** +1 (352) 856-4860, para SMS e WhatsApp Business.
 - **Endereço físico:** não há.
 - **Ferramenta de e-mail:** nenhuma com disparo automático.
@@ -66,5 +82,4 @@
 ## Em aberto
 - **Meta para os próximos 3 a 12 meses:** não definida. A dona quer
   sugestões.
-- **Materiais a receber:** tabela de preço, PDF de apresentação para cliente
-  e para parceria, depoimentos, fotos dos parques.
+- **Materiais a receber:** autorização dos depoimentos, fotos dos parques.

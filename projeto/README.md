@@ -12,6 +12,11 @@ como decisão.
 ## Decisões em vigor
 _(nenhuma)_
 
+## Ideias da dona (ainda não decididas)
+- 2026-10-23: criar a identidade visual da LUMI e depois refazer as tabelas de
+  preço como documento (base em `contexto/materiais/`).
+- 2026-10-23: melhorar o PDF de apresentação para cliente e para parceria.
+
 ## Decisões revogadas
 | Data | O que era | Por que mudou |
 | --- | --- | --- |

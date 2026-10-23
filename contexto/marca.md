@@ -24,6 +24,9 @@
   Montserrat.
 - **Fotos próprias:** existem, feitas nos parques, não profissionais. Ainda
   não enviadas.
-- **Materiais existentes:** PDF de apresentação para cliente e para
-  parceria (a receber).
+- **Materiais existentes:** apresentações e tabelas de preço em
+  `contexto/materiais/`. Usam o azul-marinho, o creme e o dourado do logo, com
+  títulos em serifada (o PDF de parceria usa Playfair Display) e um ícone "L"
+  num círculo marinho. A dona quer refazer depois de criar a identidade
+  visual.
 - **Referências (marcas, perfis, criadores):** [SEM DADO]

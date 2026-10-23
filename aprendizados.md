@@ -31,6 +31,11 @@ Registre aqui, com data, o que funcionou, o que não funcionou e o que o dono pe
   decisões. Toda decisão leva data e a frase de quem decidiu. Sugestão do
   Claude aceita pela dona deve ser registrada como "sugerido pelo Claude,
   aprovado pela dona".
-- **Aprendizado:** o site em inglês (https://lumi-concierge.com/eua) pode ser
-  lido nas sessões. O Instagram não abre sem login: peça prints à dona.
+- **Aprendizado:** o site pode ser lido nas sessões. O Instagram mostra a
+  bio e alguns posts uma vez e depois bloqueia o acesso automático: para
+  análise de posts, peça prints à dona.
+- **Erro a não repetir:** o site é feito no Framer, e o HTML bruto traz textos
+  escondidos das animações. Lendo só o HTML, apontei um erro inexistente no
+  FAQ. Para conferir textos do site, abra no navegador (Playwright) e clique
+  nos itens antes de afirmar qualquer coisa.
 - **Origem:** conversa com a dona.
