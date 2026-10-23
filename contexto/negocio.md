@@ -1,46 +1,70 @@
 # Negócio
 
-> Preencha com dados reais. O que estiver vazio, os squads perguntam antes de usar.
+> Só dados da empresa, que valem para qualquer projeto. Decisões de projeto
+> (público-alvo da vez, canal, formato, campanha) ficam em `projeto/`.
+> O que estiver [SEM DADO], os setores perguntam antes de usar.
 
-- **O que você vende?** Concierge em Orlando. Produto principal: guiamento
-  virtual nos parques da Disney.
-- **Para quem?** Mães que querem proporcionar uma viagem à Disney para os
-  filhos (detalhes em `publico.md`).
-- **Foco de mercado (decisão do dono, 2026-10-14):** priorizar o público
-  falante de inglês (EUA, Reino Unido, Canadá etc.) para ter mais oportunidade
-  de captação e fugir da concorrência de preço com o guiamento remoto
-  brasileiro. O público brasileiro continua sendo atendido.
-- **Como entrega?** Acompanhamento virtual em grupo de WhatsApp (ou por text
-  message/SMS quando a família não usa WhatsApp, informado pelo dono em
-  2026-10-14), de 6 a 7 horas por parque: agendamento de todas as filas rápidas a partir da lista de
-  prioridades do cliente, estratégia de ordem das atrações e ajuste do roteiro
-  sempre que necessário.
-- **Ticket (preço por dia/parque):** 1 a 3 pessoas $200; 4 a 5 pessoas $250;
-  de 6 a 10 pessoas, + $50 por pessoa (6 = $300 … 10 = $500). [PREMISSA: o
-  acréscimo conta a partir da 6ª pessoa.]
-- **Canais:** Instagram e TikTok. O Instagram da LUMI é recente e está sendo
-  construído em inglês, para atrair o público americano (informado pelo dono,
-  2026-10-14).
-- **Instagram:** @lumiconcierge
-- **Site (EUA, feito no Framer):** https://lumi-concierge.com/eua. Não há
-  formulário de orçamento; o site é o link de "saiba mais".
-- **Fotos próprias:** existem, feitas nos parques, não profissionais (dono, 2026-10-14). Ainda não enviadas.
+## O que é
+- **LUMI Concierge:** concierge em Orlando. Produto principal: guiamento
+  virtual nos parques da Disney (detalhes em `oferta.md`).
+- **História:** a dona trabalha com guiamento há 5 anos (o site diz "desde
+  2021"), antes por outra empresa. Há cerca de 3 meses (desde julho/2026)
+  constrói a LUMI como marca própria. Alguns clientes americanos da empresa
+  anterior hoje atendem só com ela.
+- **Por que começou (palavras da dona, 2026-10-23):** acompanhando famílias,
+  viu a necessidade de ter alguém cuidando e organizando o dia para que elas
+  aproveitem o tempo em família sem se preocupar com o melhor caminho, o tempo
+  de fila, a criança cansada e onde comer. A mãe tenta dar conta de tudo
+  sozinha. A ideia é otimizar o tempo da família no parque, para não precisar
+  passar 12 horas lá para fazer as atrações.
+
+## Equipe e capacidade
+- **Hoje:** só a dona, presencialmente em Orlando.
+- **Reforço:** 3 guias treinados, chamados quando precisa.
+- **Capacidade:** até 2 famílias por dia. Em época muito cheia, chama um
+  segundo guia para dividir.
+- **Parceiro terceirizado:** uma pessoa que faz transfer e tem contatos de
+  aluguel de carro, casa de férias (vacation home) e stroller.
+
+## Números atuais (dona, 2026-10-23)
+- **Volume:** média de 2 famílias por mês, bem sazonal (há meses com mais e
+  meses com menos).
+- **Tamanho das famílias:** varia de 3 a 8 pessoas (já atendeu família de 10).
+- **Parques por família:** em geral 3 a 4. Às vezes deixam o Animal Kingdom de
+  fora (não vão ou acham mais tranquilo). Há famílias que contratam só o Magic
+  Kingdom, por acharem o mais difícil.
+- **Faturamento:** [SEM DADO]
+
+## Clientes e aquisição
+- **Origem dos clientes:** maioria brasileira; alguns americanos (vindos da
+  empresa anterior).
+- **Como chegam:** indicação.
+- **Parcerias com agências:** 2, em Botucatu (SP), ainda com pouco fluxo de
+  clientes para a Disney. Não há parceria forte consolidada.
+- **Instagram:** @lumiconcierge, começou a ser construído em outubro/2026
+  (menos de 1 mês). Conteúdo feito em inglês até agora.
+- **TikTok:** citado como canal; status atual [SEM DADO].
+- **Site (Framer):** https://lumi-concierge.com/eua, em inglês. Sem
+  formulário; tem Pixel da Meta instalado.
 - **Contato (EUA):** +1 (352) 856-4860, para SMS e WhatsApp Business.
-- **Endereço físico:** não há (decisão do dono, 2026-10-14).
-- **Ferramenta de e-mail:** por enquanto nenhuma com disparo por data; os
-  e-mails ligados à data da viagem serão enviados manualmente, como teste.
-- **Restrição:** o expert ainda não se sente confortável fazendo conteúdo ao
-  vivo em inglês. Preferir formatos escritos ou gravados (2026-10-14).
-- **Concorrentes brasileiros que divulgam guiamento virtual (citados pelo dono,
-  2026-10-14):** Wishes, Be Traveler, Purple Magical Tours, Mimotrips, Dri Muniz,
-  Gio Concierge. Preços e ofertas de cada um: [SEM DADO].
-- **Concorrentes em inglês (pesquisa 2026-10-14, não conhecidos pelo dono):**
-  Mouse Expedition, Lightning Reservations, Michael Vacations, My VIP Tour, e
-  robôs de reserva (Standby Skipper, Wait Magic). Detalhes e links em
-  `entregas/pesquisa-publico/concorrentes-eua-guiamento-disney.md`.
-- **Avaliações de clientes:** existem (informado pelo dono). Texto, nota,
-  quantidade, idioma e autorização de uso: [SEM DADO]. Não citar até o dono
-  enviar.
-- **Experiência:** 5 anos de vivência dentro dos parques.
-- **Momento atual do negócio?** [SEM DADO]
-- **Meta (próximos 3 a 12 meses)?** [SEM DADO]
+- **Endereço físico:** não há.
+- **Ferramenta de e-mail:** nenhuma com disparo automático.
+
+## Vendas perdidas e concorrência
+- **Motivo de perda conhecido:** preço. Clientes disseram ter achado guiamento
+  mais barato no Brasil.
+- **Caso real (dona, 2026-10-23):** família de 10 pessoas contratou um
+  guiamento mais barato no Brasil, teve um serviço ruim no primeiro parque e
+  procurou a LUMI de última hora para os outros 3 parques. Nome da família:
+  não citar sem autorização.
+- **Concorrentes brasileiros (citados pela dona):** Wishes, Be Traveler,
+  Purple Magical Tours, Mimotrips, Dri Muniz, Gio Concierge. Preços: [SEM DADO].
+
+## Restrições da dona
+- Ainda não se sente confortável fazendo conteúdo ao vivo em inglês.
+
+## Em aberto
+- **Meta para os próximos 3 a 12 meses:** não definida. A dona quer
+  sugestões.
+- **Materiais a receber:** tabela de preço, PDF de apresentação para cliente
+  e para parceria, depoimentos, fotos dos parques.

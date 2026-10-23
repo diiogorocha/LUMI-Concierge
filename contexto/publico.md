@@ -1,84 +1,38 @@
 # Público
 
-> Preencha com dados reais. O que estiver vazio, os squads perguntam antes de usar.
+> Só quem a LUMI atende de fato. Qual público priorizar é decisão de projeto
+> e fica em `projeto/`.
 
-- **Foco atual (2026-10-14):** mães falantes de inglês (EUA, Reino Unido,
-  Canadá etc.). O que está abaixo foi levantado com o público brasileiro e
-  precisa ser revalidado para esse público.
-- **Cliente ideal:** mães que querem proporcionar uma viagem à Disney para os
-  filhos. Dois perfis:
+## Quem contrata hoje (dona, 2026-10-23)
+- **Origem:** maioria brasileira; alguns americanos.
+- **Formação:** adultos com crianças. Principalmente famílias com idosos e/ou
+  crianças muito pequenas.
+- **Família:** de 3 a 8 pessoas em geral (já atendeu 10).
+- **Momento:**
   - primeira viagem à Disney;
-  - já foram e querem ter uma experiência melhor desta vez.
-- **Idade, profissão, momento de vida:** [SEM DADO]
-- **Dores principais:**
-  - ter que dar conta de tudo sozinha;
-  - não saber como funciona o sistema da Disney de acesso às filas rápidas;
-  - medo de não conseguir fazer os brinquedos que a família mais quer;
-  - (quem já foi) não quer repetir a experiência de perder tempo em filas
-    longas, com crianças cansadas;
-  - se perder no parque sem saber para onde ir nem qual atração fazer em
-    seguida.
-- **Desejos:** aproveitar o parque com os filhos sem estresse, fazer as
-  atrações prioritárias, não perder tempo em fila.
-- **O que já tentou antes:** quem já foi tentou fazer o parque por conta
-  própria e enfrentou filas longas e desorganização. Outras tentativas:
-  [SEM DADO]
-- **Objeções antes de comprar:** [SEM DADO]
-- **Frases reais que ela usa (com a fonte):** [SEM DADO]
-- **Onde ela está:** Instagram e TikTok.
+  - já foram, sabem como funciona e não querem passar perrengue.
+- **Perfil "faz e vai embora":** há família (cliente recorrente) que quer fazer
+  os brinquedos e voltar cedo para a casa de férias, para churrasco e piscina.
+- **Quem decide:** a mãe costuma ser quem organiza a viagem.
+- **Idade, profissão, renda:** [SEM DADO]
 
-## Dados de mercado com fonte (acrescentado em 2026-10-14, pesquisa em `entregas/pesquisa-publico/pesquisa-publico-maes-disney.md`)
+## Dores
+- ter que dar conta de tudo sozinha: caminho, tempo de fila, criança cansada,
+  onde comer, preço;
+- não saber como funciona o sistema de filas rápidas da Disney;
+- medo de não conseguir fazer os brinquedos que a família mais quer;
+- (quem já foi) não quer repetir filas longas com crianças cansadas;
+- se perder no parque sem saber para onde ir;
+- passar 12 horas no parque para conseguir aproveitar.
 
-- **Volume:** ~736,3 mil visitantes brasileiros em Orlando em 2025 (+5,6% vs.
-  2024); Brasil é o 3º mercado internacional; permanência média de 10,1 noites.
-  Fonte: Visit Orlando via [Brasilturis](https://brasilturis.com.br/2026/05/08/orlando-atinge-767-milhoes-de-visitantes-e-brasil-cresce-56/).
-- **Antecedência:** brasileiro planeja a viagem 6 a 12 meses antes. Fonte:
-  Visit Orlando via [Mercado & Eventos](https://www.mercadoeeventos.com.br/noticias/destinos/exterior/visit-orlando-realiza-primeira-missao-de-vendas-no-brasil-com-maior-delegacao-de-sua-historia-no-pais/).
-- **Janela das filas rápidas (Multi Pass):** 7 dias antes para hóspede de hotel
-  Disney, 3 dias antes para os demais, às 7h (horário da Flórida). Fonte:
-  [disneyblog.com](https://disneyblog.com/faq/planning/lightning-lane-work-walt-disney-world-2026/)
-  (não oficial; confirmar no app).
-- **Concorrentes de guiamento remoto (BR):** R$ 800 a R$ 1.200 por dia de parque
-  para até 7–8 pessoas, com Pix/parcelamento. Fontes:
-  [Grupo Dicas](https://www.grupodicas.com/?p=394271),
-  [Mala de Aventuras](https://www.maladeaventuras.com/guiamento-remoto-disney).
-- **Premier Pass da Disney:** US$ 119 a 449 por pessoa/dia em 2026. Fonte:
-  [WDW Magic](https://www.wdwmagic.com/other/disney-genie/news/04aug2026-magic-kingdom-lightning-lane-premier-pass-drops-to-record-low-299-in-august-2026.htm).
-- **Termos que o mercado BR usa:** "guiamento remoto", "guia virtual",
-  "fura-fila", "dia de parque".
-- Perfil demográfico, objeções e frases reais das clientes da LUMI continuam
-  [SEM DADO]: validar com o roteiro da seção 14 da pesquisa.
+## Desejos
+Aproveitar o tempo em família sem estresse, fazer as atrações prioritárias,
+não perder tempo em fila e ter tempo livre fora do parque.
 
-## Público de língua inglesa: dados com fonte (2026-10-14, `entregas/pesquisa-publico/pesquisa-publico-maes-ingles-disney.md`)
+## Objeções conhecidas
+- **Preço:** "achei mais barato no Brasil" (relatado pela dona).
+- Outras: [SEM DADO]
 
-- **Volume Orlando 2025:** 76,7 mi visitantes; EUA 70,3 mi (doméstico);
-  Canadá 1.119.300 (-13,3%, 1º internacional); Reino Unido 933.500 (+2,8%, 2º).
-  Fonte: [Visit Orlando](https://www.visitorlando.org/media/press-releases/post/orlando-welcomed-record-767-million-visitors-in-2025-remaining-most-visited-destination-in-the-us/).
-- **Canadá em queda** por motivo político; recuperação prevista para 2027.
-  Fontes: [Reuters/AOL](https://www.aol.com/articles/looking-disney-magic-elsewhere-canadians-110437368.html),
-  [ClickOrlando](https://www.clickorlando.com/news/local/2026/06/19/visit-orlando-tourism-hits-new-record-but-canadian-travel-drops-13/).
-- **Quem decide:** 80% das americanas dizem que planejam as viagens; 62% tomam
-  a maior parte das decisões; planejar leva ~19 h. Fonte:
-  [Talker Research, jul/2026](https://talkerresearch.com/planning-a-trip-women-say-theyre-doing-almost-all-the-work/).
-- **Gasto:** 45% dos pais com filhos <18 se endividaram pela Disney
-  (LendingTree, via [WLRN](https://www.wlrn.org/business/2024-08-26/families-are-going-into-debt-for-disney-vacations)).
-- **Canal:** WhatsApp é usado por 32% dos adultos dos EUA
-  ([Pew 2025](https://www.pewresearch.org/internet/2025/11/20/americans-social-media-use-2025/markdown));
-  iPhone = 69% das vendas nos EUA no 4º tri/2025
-  ([Counterpoint](https://counterpointresearch.com/en/insights/q4-2025-apple-share-grows-to-historic-levels-as-us-smartphone-market-up-1-yoy));
-  Reino Unido: 65% têm o WhatsApp como principal app de mensagem (Ofcom via
-  [thefonecast](https://thefonecast.com/Home/PgrID/384/PageID/50/artmid/383/articleid/4), fonte secundária).
-- **Alternativas que a mãe compara:** robôs de reserva a US$ 20–45 (Standby
-  Skipper, Wait Magic) via Family & Friends, sem senha
-  ([Inside the Magic](https://insidethemagic.net/2026/09/disney-world-guests-paying-third-party-to-help-them-navigate-lightning-lane-at-the-parks-rl1/));
-  guiamento humano remoto de US$ 250 a mais de US$ 1.000/dia, preço fixo por
-  grupo (ver `entregas/pesquisa-publico/concorrentes-eua-guiamento-disney.md`).
-- **Termos da Disney:** quem está no Family & Friends pode "plan activities for
-  you and modify activities"
-  ([Disney](https://disneyworld.disney.go.com/park-experience-terms-conditions/)).
-  Não pedir senha.
-- **Termos que o público usa:** "designated person", Lightning Lane/LL/LLMP,
-  Multi Pass, tiers, rope drop, stacking, "Disney slots", must-dos; Reino Unido:
-  queue, holiday, half-term, villa.
-- **Segmento prioritário [HIPÓTESE]:** mãe americana de 1ª viagem ou família
-  grande/multigeracional; Reino Unido como teste; Canadá em espera.
+## Frases reais (com fonte)
+[SEM DADO]. A melhor fonte são as conversas de WhatsApp e as DMs da própria
+LUMI.

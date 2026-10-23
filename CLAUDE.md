@@ -1,7 +1,7 @@
 # Central de marketing com squads de IA
 
 ## Como trabalhar aqui
-1. Leia `contexto/` e `aprendizados.md` antes de criar qualquer coisa.
+1. Leia `contexto/`, `projeto/` e `aprendizados.md` antes de criar qualquer coisa.
 2. Roteamento automático: o usuário não precisa citar squad nem especialista.
    Identifique o setor pela tabela abaixo e delegue ao subagente do setor
    (`.claude/agents/`). Diga em uma linha qual setor vai atuar e por quê.
@@ -29,7 +29,21 @@
 
 ## Memória
 - A sessão é descartável: o que fica é o que está no Git.
+- `contexto/` = dados da empresa (fatos que valem para qualquer projeto).
+  `projeto/` = o projeto atual: objetivo e decisões. Nunca registre decisão de
+  projeto em `contexto/`. Toda decisão leva data e diz quem decidiu.
+- `arquivo/` = projetos antigos. Não use como base, a não ser que o dono peça.
 - Dado novo do negócio vai para `contexto/`.
+
+## Comandos do dono
+- **"Mudança de rota: <o que sai> → <o que entra>"**: em `projeto/README.md`,
+  mova a decisão antiga para "Decisões revogadas" (com data e motivo),
+  registre a nova, mova para `arquivo/` as entregas que perderam a validade e
+  diga o que foi afetado.
+- **"Zerar projeto"**: arquive todo o projeto atual em
+  `arquivo/<data>-<nome>/` e deixe `projeto/README.md` sem decisões.
+  `contexto/` não muda.
+- **"Isso é da empresa: <dado>"**: grave em `contexto/`.
 - Ao fim de toda tarefa, registre em `aprendizados.md` o que vale para as
   próximas (data, o aprendizado, de onde veio).
 - Entregas ficam em `entregas/<setor>/`.

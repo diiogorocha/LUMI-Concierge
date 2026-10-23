@@ -1,23 +1,29 @@
 # Marca
 
-> Preencha com dados reais. O que estiver vazio, os squads perguntam antes de usar.
+> Só dados da empresa. Mensagens e posicionamento criados num projeto ficam
+> em `projeto/`.
 
 - **Tom de voz:** descontraído, com profissionalismo.
-- **Redes:** Instagram (em inglês, para público americano) e TikTok.
-- **Voz nos textos em inglês:** "our team" (decisão do dono, 2026-10-14).
 - **Palavras que usa:** [SEM DADO]
 - **Palavras que não usa:** [SEM DADO]
-- **Logo:** `contexto/marca/logo-lumi-concierge.jpg` (enviado pelo dono em
-  2026-10-14). "LUMI" em serifada maiúscula azul-marinho, "Concierge" em
-  serifada azul acinzentado, estrela de 4 pontas dourada sobre o "M", fundo
-  creme.
-- **Versões sem fundo (PNG 500x500, enviadas em 2026-10-14):**
+- **Nos textos para clientes (regra da dona, 2026-10-14; confirmar se
+  continua):** não falar de senha, acesso à conta nem pagamento. Nunca
+  escrever "we never ask for your password" ou similar, porque a LUMI acessa a
+  conta da cliente. Nunca parecer oficial da Disney.
+- **Logo:** `contexto/marca/logo-lumi-concierge.jpg`. "LUMI" em serifada
+  maiúscula azul-marinho, "Concierge" em serifada azul acinzentado, estrela de
+  4 pontas dourada sobre o "M", fundo creme.
+- **Versões sem fundo (PNG 500x500):**
   `contexto/marca/logo-lumi-positivo-transparente.png` (marinho, para fundo
   claro) e `contexto/marca/logo-lumi-invertido-transparente.png` (creme com
-  estrela dourada, para fundo escuro). Para impressão, pedir versão vetorial
-  ou em resolução maior.
-- **Cores (amostradas do logo, aproximadas):** azul-marinho `#0F3C5D` (LUMI),
-  azul acinzentado `#395B74` (Concierge), dourado `#B68237` (estrela), creme
-  `#FEFAEF` (fundo). Confirmar códigos exatos com quem fez o logo.
-- **Fontes:** serifada clássica no logo (nome exato da fonte: [SEM DADO]).
+  estrela dourada, para fundo escuro). Para impressão, pedir versão vetorial.
+- **Cores (amostradas do logo, aproximadas):** azul-marinho `#0F3C5D`, azul
+  acinzentado `#395B74`, dourado `#B68237`, creme `#FEFAEF`. Confirmar os
+  códigos exatos com quem fez o logo.
+- **Fontes:** serifada clássica no logo (nome: [SEM DADO]). O site usa
+  Montserrat.
+- **Fotos próprias:** existem, feitas nos parques, não profissionais. Ainda
+  não enviadas.
+- **Materiais existentes:** PDF de apresentação para cliente e para
+  parceria (a receber).
 - **Referências (marcas, perfis, criadores):** [SEM DADO]
