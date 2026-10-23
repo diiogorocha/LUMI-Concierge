@@ -3,7 +3,10 @@
 **Data:** 2026-10-23
 **Projeto:** Identidade visual da LUMI, etapa 1 de 2 (`projeto/README.md`)
 **Setor:** design-criativos
-**Status:** proposta para aprovação da dona. Nada aqui foi aplicado em site,
+**Status:** aprovado pela dona em 2026-10-23 (paleta, fontes e template de
+tabela). Ajustes pedidos por ela no mesmo dia: aviso de independência
+removido do rodapé; caminho do Canva gratuito como padrão. Carrossel da
+prévia não aprovado (fica para a etapa 3). Nada aqui foi aplicado em site,
 Instagram ou material real.
 **Prévia visual:** `entregas/design-criativos/2026-10-23-identidade-visual-preview.html`
 (abra no navegador; funciona no celular).
@@ -23,9 +26,9 @@ Instagram ou material real.
 - [PREMISSA] Os códigos de cor do logo foram amostrados das imagens
   (`contexto/marca.md`). Conferi de novo: marinho ≈ `#0F3C5D`, dourado ≈
   `#B68237`, creme `#FEFAEF`. Vale confirmar com quem fez o logo.
-- [PREMISSA] O Kit de Marca completo do Canva (logos, cores e fontes salvos)
-  é recurso do Canva Pro. Se a conta for gratuita, o passo a passo da seção 9
-  traz uma alternativa.
+- A dona não tem Canva Pro (dona, 2026-10-23). O passo a passo da seção 9
+  usa a conta gratuita como padrão. [PREMISSA] O Kit de Marca completo do
+  Canva é recurso do Canva Pro.
 - [PREMISSA] A tabela de clientes americanos fica toda em inglês. Os textos
   em inglês deste guia e da prévia são rascunho e precisam de revisão de
   falante nativo antes de publicar (regra de `aprendizados.md`).
@@ -246,7 +249,8 @@ desta etapa.
 | **Positivo** (marinho, ardósia e estrela dourada, sem fundo) | `contexto/marca/logo-lumi-positivo-transparente.png` | Padrão. Fundos Creme, Areia ou Mel |
 | **Invertido** (creme e estrela dourada, sem fundo) | `contexto/marca/logo-lumi-invertido-transparente.png` | Fundo Marinho ou foto escurecida com película marinho |
 | **Com fundo creme** | `contexto/marca/logo-lumi-concierge.jpg` | Só sobre fundo exatamente Creme `#FEFAEF` (o fundo do JPG é esse creme) |
-| Monocromático (uma cor só) | [SEM DADO]: não existe ainda | Pedir a quem fez o logo, junto com o vetor (SVG ou PDF) |
+| Uma cor só, marinho (sem fundo, recortado) | `entregas/design-criativos/logo-uma-cor/logo-lumi-marinho-recortado.png` | Gerado do PNG em 2026-10-23. Para carimbo, marca-d'água e fundos claros onde a estrela dourada não cabe |
+| Uma cor só, branco (sem fundo, recortado) | `entregas/design-criativos/logo-uma-cor/logo-lumi-branco-recortado.png` | Gerado do PNG em 2026-10-23. Sobre marinho ou foto com película. Para impressão grande, ainda pedir o vetor (SVG ou PDF) |
 
 Os PNG têm 500x500 com bastante borda transparente. No Canva, **recorte** a
 imagem até a borda do desenho antes de posicionar; senão o alinhamento fica
@@ -366,12 +370,9 @@ verdade, não pose.
 5. Filtros fortes, preto e branco, vinheta, moldura de "Polaroid".
 6. Fogos e brilhos como recurso gráfico desenhado.
 
-**Aviso de independência** (sugestão para rodapé de documento e site; validar
-com a dona):
-- PT: "A LUMI Concierge é um serviço independente, sem vínculo com a The Walt
-  Disney Company."
-- EN: "LUMI Concierge is an independent service, not affiliated with The Walt
-  Disney Company."
+**Aviso de independência no rodapé:** removido a pedido da dona em
+2026-10-23. As peças não levam esse aviso. A regra de não parecer oficial da
+Disney continua valendo pelas escolhas de foto e de elementos acima.
 
 ---
 
@@ -434,10 +435,14 @@ a nota.
 - Linha fina cor Linha na largura toda.
 - Esquerda, em destaque: estrela pequena + **"Valor por parque, por dia"**
   em Lato Bold 10 pt Marinho. Nunca em cinza-claro.
-- Direita: lumi-concierge.com · WhatsApp +1 (352) 856-4860, Lato 9 pt
+- Direita: lumi-concierge.com · WhatsApp/SMS +1 (352) 856-4860, Lato 9 pt
   Ardósia.
-- Abaixo, linha única: aviso de independência, Lato 8 pt Ardósia.
+- Aviso de independência: removido a pedido da dona em 2026-10-23.
 - Número de página só se tiver mais de 1 página ("1/2").
+
+**Tabelas produzidas com este template (etapa 2, 2026-10-23):**
+`entregas/design-criativos/tabelas-2026-10-23/` (HTML-fonte, PNG 1080x1350 e
+PDF A4 de cada uma).
 
 **Espaço vazio:** se a tabela for curta, não estique as linhas além de 14 mm.
 Deixe o respiro ou, na etapa 2, avalie um bloco curto "O que está incluído"
@@ -520,23 +525,30 @@ posts seguidos com a mesma foto de fundo; texto sempre dentro da margem.
 
 ## 9. Passo a passo: kit de marca no Canva
 
-1. **Crie o kit.** Canva > Marca (Brand) > Adicionar novo > nome "LUMI
-   Concierge". [PREMISSA] Recurso do Canva Pro. Sem Pro: crie um design
-   chamado "LUMI - Kit" com as cores em quadrados, os textos de exemplo de
-   cada nível e os logos, e copie e cole dali.
-2. **Logos.** Envie `logo-lumi-positivo-transparente.png`,
-   `logo-lumi-invertido-transparente.png` e `logo-lumi-concierge.jpg`. Envie
-   também a estrela recortada (passo da seção 5).
-3. **Cores.** Crie 3 paletas com nome:
+> **Padrão: conta gratuita do Canva** (a dona não tem Canva Pro, 2026-10-23).
+> O kit fica num design de referência, não no Kit de Marca. Se um dia assinar
+> o Pro, os mesmos itens podem ir para Canva > Marca (Brand).
+
+1. **Crie o design-kit.** Crie um design em branco chamado "LUMI - Kit". Nele
+   ficam as cores em quadrados com o HEX escrito, os textos de exemplo de cada
+   nível e os logos. Para usar: abra o "LUMI - Kit", copie o elemento e cole
+   na peça nova. Para cor: selecione o elemento, clique na cor e digite o HEX.
+2. **Logos.** Em Uploads, envie `logo-lumi-positivo-transparente.png`,
+   `logo-lumi-invertido-transparente.png`, `logo-lumi-concierge.jpg` e as
+   versões de uma cor (`logo-uma-cor/`). Envie também a estrela recortada
+   (passo da seção 5). Cole cada logo no "LUMI - Kit".
+3. **Cores.** No "LUMI - Kit", monte 3 linhas de quadrados com o nome e o HEX
+   escritos embaixo (a conta gratuita não salva paletas com nome):
    - "Principais": `#0F3C5D`, `#FEFAEF`, `#B68237`
    - "Apoio": `#395B74`, `#F1E8D8`, `#E3D8C4`
    - "Funcionais": `#8A5F22`, `#F6EBD3`, `#D9AE6A`
-4. **Fontes.** Em Fontes da marca: Título = Cormorant Garamond (SemiBold);
-   Subtítulo = Lato; Corpo = Lato. Não envie outras fontes.
+4. **Fontes.** Cormorant Garamond e Lato já estão no Canva gratuito: é só
+   procurar pelo nome na lista de fontes. Não envie outras fontes.
 5. **Estilos de texto.** Num design em branco, monte uma amostra de cada
    nível da seção 4 (rótulo, título, subtítulo, corpo, preço, legenda) já com
    cor, tamanho e espaçamento. Para usar: copiar estilo (pincel) e colar.
-6. **Templates.** Crie e salve como modelo da marca:
+6. **Templates.** Crie cada um como um design com nome claro e, para usar,
+   faça "Fazer uma cópia" (na conta gratuita não há "modelo da marca"):
    - "Tabela de preço A4" (seção 8a);
    - "Carrossel dica - capa", "Carrossel dica - interno", "Carrossel dica -
      final", "Post de serviço" (seção 8b);
@@ -564,5 +576,5 @@ posts seguidos com a mesma foto de fundo; texto sempre dentro da margem.
    se a etapa 2 começa pelo A4 ou pelo formato 1080 x 1350.
 2. Quem fez o logo consegue mandar a **versão vetorial** (SVG ou PDF), com a
    estrela separada e uma versão monocromática?
-3. Você tem **Canva Pro**? (define se o Kit de Marca fica salvo no Canva ou
-   num design de referência).
+3. ~~Você tem Canva Pro?~~ Respondido em 2026-10-23: não. O guia usa a
+   conta gratuita como padrão (seção 9).

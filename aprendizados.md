@@ -58,3 +58,26 @@ Registre aqui, com data, o que funcionou, o que não funcionou e o que o dono pe
 - **Origem:** guia de identidade visual,
   `entregas/design-criativos/2026-10-23-identidade-visual.md` (aguarda
   aprovação da dona).
+
+## 2026-10-23 — Tabelas de preço (etapa 2)
+- **Aprendizado:** um HTML só serve para os dois formatos: medidas em
+  variáveis CSS, em px para a imagem 1080x1350 (tela) e em mm/pt dentro de
+  `@media print` para o PDF A4. Atenção: variável redefinida numa classe do
+  `body` (ex.: `.dense`) vence o `:root` do print; no print, redefina também
+  em `body.<classe>`.
+- **Aprendizado:** o Chromium do Playwright baixa as fontes do Google Fonts
+  pela proxy da sessão (`proxy: { server: process.env.HTTPS_PROXY }`), sem
+  desligar verificação TLS. Use `display=block` no link das fontes, espere
+  `document.fonts.ready` e confira com `document.fonts.check(...)`. O PDF sai
+  com Cormorant e Lato embutidas (conferido com `pdffonts`).
+- **Aprendizado:** cabeçalho de tabela com fundo em cada `th` mostra um fio
+  claro entre as colunas no PDF. Pinte o fundo no `thead tr` e arredonde os
+  cantos num contêiner com `overflow:hidden`.
+- **Aprendizado:** a tabela de 15 linhas (clientes americanos) não cabe no
+  post 1080x1350 com o preço em 60–72 px do guia; ficou em 36 px. Tabelas de
+  até 6 linhas cabem com 52–60 px.
+- **Aprendizado:** os preços com desconto de 5% (11, 13, 15 pessoas) são
+  arredondados para baixo na tabela oficial ($522,50 vira $522). Respeitar o
+  valor da tabela.
+- **Origem:** produção das tabelas em
+  `entregas/design-criativos/tabelas-2026-10-23/`.
