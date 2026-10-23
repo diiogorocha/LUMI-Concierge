@@ -30,6 +30,7 @@ sequência, recriar as tabelas de preço como documento.
 | 2026-10-23 | Sem aviso de "sem vínculo com a Disney" no rodapé das peças | Dona ("pode tirar esse aviso do rodapé") |
 | 2026-10-23 | Tabelas a fazer: presencial; virtual Brasil; virtual americanos; virtual Brasil para parceiros (com comissão de 15%) | Dona |
 | 2026-10-23 | Formato das tabelas: imagem para WhatsApp e PDF para parceiros e e-mail | Sugerido pelo Claude, a confirmar pela dona |
+| 2026-10-23 | Tabelas diretas, no tamanho das tabelas originais da dona: logo e letras pequenos, sem sobretítulo, frase de apoio, nota ou contato no rodapé | Dona ("Letras e logos muito grandes [...] Tem que ser direta. Siga a referência que eu te mandei") |
 | 2026-10-23 | A dona não tem Canva Pro: usar o caminho da conta gratuita | Dona |
 
 ## Ideias da dona (ainda não decididas)
