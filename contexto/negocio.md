@@ -54,8 +54,7 @@
     to count on" (com o logo), "Happily Ever After — where to watch",
     "3 Disney Resort perks that go beyond your hotel stay";
   - Reels: "Skip the line when ordering food at Disney" (pedido pelo app),
-    castelo do Magic Kingdom com Tico e Teco, e uma mulher falando para a
-    câmera: "3 things I wish you knew before your first Disney trip".
+    castelo do Magic Kingdom com Tico e Teco, e a dona falando para a câmera: "3 things I wish you knew before your first Disney trip".
   - Visual: fotos de banco de imagem e dos parques, texto branco em serifada
     e sem serifa, um post em fundo azul-marinho texturizado. Ainda não há
     padrão fixo de template.
@@ -90,7 +89,9 @@
   Purple Magical Tours, Mimotrips, Dri Muniz, Gio Concierge. Preços: [SEM DADO].
 
 ## Restrições da dona
-- Ainda não se sente confortável fazendo conteúdo ao vivo em inglês.
+- Aparece em vídeos gravados em inglês (decidiu em 2026-10-23; ex.: Reels
+  "3 things I wish you knew before your first Disney trip"). Ao vivo em
+  inglês: ainda não confirmado, então perguntar antes de propor.
 
 ## Em aberto
 - **Meta para os próximos 3 a 12 meses:** não definida. A dona quer
