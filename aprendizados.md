@@ -122,3 +122,11 @@ Registre aqui, com data, o que funcionou, o que não funcionou e o que o dono pe
 - **Origem:** pedido da dona na rodada 4 das tabelas em
   `entregas/design-criativos/tabelas-2026-10-23/` e seção 8a do guia
   `entregas/design-criativos/2026-10-23-identidade-visual.md`.
+
+## 2026-10-23 — Tabelas de preço (versão 5)
+- **Aprendizado:** a dona corta o que "não agrega". O título de marca
+  ("Experiência LUMI") saiu: numa tabela, o título é o nome do serviço. A
+  linha dourada em caixa alta serve para a informação extra (ex.: comissão),
+  e "Valor por parque, por dia" fica colado à tabela, não solto no rodapé.
+- **Origem:** retorno da dona sobre as tabelas,
+  `entregas/design-criativos/tabelas-2026-10-23/`.

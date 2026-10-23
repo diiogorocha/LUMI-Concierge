@@ -389,7 +389,10 @@ Disney continua valendo pelas escolhas de foto e de elementos acima.
 
 ### 8a. Tabela de preço (modelo enxuto)
 
-**Revisado em 2026-10-23 a pedido da dona (versão 4, padrão aprovado).** A
+**Revisado em 2026-10-23 a pedido da dona (versão 5).** Na versão 5 a dona
+tirou "Experiência LUMI" ("não agrega"): o título passou a ser o nome do
+serviço, a comissão das parcerias foi para a linha dourada em caixa alta e o
+"Valor por parque, por dia" subiu para logo abaixo da tabela, sem fio. A
 primeira versão foi reprovada ("letras e logos muito grandes... não precisa
 dos textos de baixo. Eu quero bem objetivo"). A dona aprovou o tamanho da
 versão enxuta e pediu de volta três elementos: o **sobretítulo dourado em
@@ -404,11 +407,13 @@ O PDF A4 é a mesma página reduzida para 210 mm de largura (1 px = 0,194 mm);
 como o A4 é mais alto, sobra respiro e o rodapé desce para perto do fim da
 folha.
 
-**Padrão de título (igual nas 5):**
-1. Sobretítulo = **nome do serviço**, Lato Bold, caixa alta, Dourado Escuro.
-2. Título em Cormorant = **uma linha curta**.
+**Padrão de título (igual nas 5, versão 5):**
+1. Título em Cormorant = **nome do serviço** (ex.: "Tour Presencial").
+2. Linha dourada em caixa alta (Lato Bold, Dourado Escuro) **só quando há
+   informação extra**, logo abaixo do título (ex.: "COMISSÃO DE 15% POR
+   INDICAÇÃO" nas parcerias).
 3. Filete dourado curto embaixo.
-4. Nada de subtítulo ou frase de apoio.
+4. Nada de "Experiência LUMI", subtítulo ou frase de apoio.
 
 **Nomes dos serviços:** PT "Tour Presencial" e "Guiamento Virtual"; EN
 "In-Person Park Tour" e "Virtual Park Guidance". Não usar "tour virtual" /
@@ -423,30 +428,29 @@ medida com PIL, altura do desenho dos glifos):
 | Margens | 90 px nas laterais, em cima e embaixo | — | 90 px |
 | Logo | logo positivo recortado, 56 px de altura, à esquerda | 54 px | marca 56 px |
 | Selo | pílula, borda 1,5 px Dourado Escuro, Lato Bold 13 px caixa alta, espaçamento 0,2 em ("VALORES", "PRICING", "PARCERIAS") | 42 px de altura | 43 px |
-| Sobretítulo | Lato Bold 16 px, caixa alta, espaçamento 0,18 em, Dourado Escuro `#8A5F22`; 64 px abaixo do logo, 12 px acima do título | — | — |
-| Título | Cormorant Garamond SemiBold 54 px, entrelinha 64 px, **1 linha** (se não couber, 2), Marinho, algarismos alinhados (`lining-nums`) | 54–55 px | 53–54 px |
-| Filete | 70 x 4 px, Dourado Estrela, 20 px abaixo do título | 70 x 4 | 70 x 4 |
+| Linha dourada (só parcerias) | Lato Bold 16 px, caixa alta, espaçamento 0,18 em, Dourado Escuro `#8A5F22`; 14 px abaixo do título | — | — |
+| Título | nome do serviço, Cormorant Garamond SemiBold 54 px, entrelinha 64 px, 1 linha, 64 px abaixo do logo, Marinho | 54–55 px | 53–54 px |
+| Filete | 70 x 4 px, Dourado Estrela, 20 px abaixo do título (ou da linha dourada) | 70 x 4 | 70 x 4 |
 | Cabeçalho da tabela | 64 px de altura (56 px na tabela de 12 linhas), fundo Marinho, Lato Bold 14 px caixa alta, espaçamento 0,16 em, texto Creme | 64 px | 65 px |
 | Linhas | 91 px (4 linhas), 80 px (6 linhas), 54 px (12 linhas); Creme e Areia alternadas, fio de 1 px cor Linha | passo 91 / 80 / 54 | 91 / 78 / 57 |
 | Números | Lato Regular 26 px (21 px na tabela de 12 linhas), Marinho; nunca negrito | 25 px (20 px) | 24–26 px (18 px) |
 | Coluna extra (parcerias) | valor do tour em Ardósia, comissão em Dourado Escuro, ambos Lato Regular 26 px | 25 px | 26–28 px |
 | Desconto (americanos 11–15) | fundo Mel; preço em Dourado Escuro; valor cheio riscado Lato 15 px Ardósia; selo "5% off" Lato Bold 10 px | — | — |
 | Caixa de nota (só quando há nota) | 28 px abaixo da tabela (24 px na de 12 linhas); fundo Areia, barra Dourado Estrela de 5 px à esquerda, cantos direitos 5 px, respiro 15 x 20 px; Lato Regular 19 px, entrelinha 1,4, Marinho; uma frase curta | — | — |
-| Rodapé | no fim da página (encostado na margem de baixo), fio de 1,5 px cor Linha em cima, 20 px de respiro; estrela de 4 pontas Dourado Estrela 21 px + "Valor por parque, por dia" / "Price per park, per day" em Lato Bold 21 px Marinho, alinhado à esquerda | — | — |
+| Valor por parque | logo abaixo da tabela (ou da caixa de nota), 26 px de distância (22 px na de 12 linhas), sem fio; estrela de 4 pontas Dourado Estrela 21 px + "Valor por parque, por dia" / "Price per park, per day" em Lato Bold 21 px Marinho, alinhado à esquerda | — | — |
 
 **Textos das 5 tabelas:**
 
-| Tabela | Sobretítulo | Título | Selo | Caixa de nota |
+| Tabela | Título | Linha dourada | Selo | Caixa de nota |
 | --- | --- | --- | --- | --- |
-| presencial-pt | TOUR PRESENCIAL | Experiência LUMI | VALORES | sem caixa |
-| presencial-en | IN-PERSON PARK TOUR | The LUMI Experience | PRICING | sem caixa |
-| virtual-brasil-pt | GUIAMENTO VIRTUAL | Experiência LUMI | VALORES | "Valores em dólar, convertidos para real pela cotação do dia." |
-| virtual-americanos-en | VIRTUAL PARK GUIDANCE | The LUMI Experience | PRICING | "From 11 guests: 5% off the total." |
-| virtual-parceiros-pt | GUIAMENTO VIRTUAL · PARCEIROS | Comissão de 15% por indicação | PARCERIAS | "Comissão paga a cada indicação confirmada." |
+| presencial-pt | Tour Presencial | — | VALORES | sem caixa |
+| presencial-en | In-Person Park Tour | — | PRICING | sem caixa |
+| virtual-brasil-pt | Guiamento Virtual | — | VALORES | "Valores em dólar, convertidos para real pela cotação do dia." |
+| virtual-americanos-en | Virtual Park Guidance | — | PRICING | "From 11 guests: 5% off the total." |
+| virtual-parceiros-pt | Guiamento Virtual | COMISSÃO DE 15% POR INDICAÇÃO | PARCERIAS | "Comissão paga a cada indicação confirmada." |
 
 Parcerias: colunas "Pessoas / Valor do tour / Sua comissão (15%)", sem frase
-explicando as colunas. O título usa algarismos alinhados (não os antigos da
-Cormorant) e cabe numa linha a 54 px.
+explicando as colunas.
 
 **Não usar:** subtítulo ou frase de apoio (inclusive "Acompanhamento
 presencial, parque a parque"), linha final em itálico, rodapé com site e
