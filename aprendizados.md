@@ -168,11 +168,20 @@ Registre aqui, com data, o que funcionou, o que não funcionou e o que o dono pe
 - **Aprendizado:** nos PDFs da dona, parte do texto está "chapada" em imagem
   (cards dos slides 3 e 6): o `pdftotext` não acha. Sempre renderizar as
   páginas (`pdftoppm`) e ler os slides antes de dizer que um texto não existe.
-- **Aprendizado:** as fotos das apresentações originais são o castelo, a
-  estátua de Walt e Mickey e telas do app oficial da Disney, que o guia
-  proíbe. Sem fotos próprias da dona, a solução foi trocar foto por painel
-  marinho com frase de destaque ou números (2021 / Orlando / Disney). Quando a
-  dona mandar fotos dos parques, elas entram na capa e nos painéis.
+- **Aprendizado (dona):** troquei as fotos do original (castelo, estátua de
+  Walt e Mickey, telas do app) por painéis marinho, seguindo o guia, e a dona
+  pediu de volta: "quero que vc mantenha as fotos, conforme estavam". Ao
+  recriar peça dela, mantenha as imagens do original e pergunte antes de
+  aplicar uma regra do guia que tire algo que ela escolheu. Ficou como
+  exceção só para esta peça (`projeto/README.md`).
+- **Aprendizado (técnico):** `pdfimages -all` tira as fotos do PDF da dona em
+  resolução original; as telas do app vêm com máscara (smask) separada, que
+  vira transparência com PIL (`putalpha`). A foto da capa tem só 1255 px:
+  em tela cheia 1920 fica um pouco suave, mas aceitável sob a película
+  marinho (degradê da esquerda, onde está o texto, para a direita). Número de
+  página não vai sobre foto.
+- **Aprendizado (dona):** a apresentação de agências não discrimina o
+  serviço (presencial/virtual): continua genérica.
 - **Aprendizado:** para leitura no celular (a apresentação vai por WhatsApp),
   o texto foi usado maior que o guia (corpo 32–34 px, rótulo 22–24 px,
   título 80–100 px no 1920x1080) e no máximo 5 cards por slide.

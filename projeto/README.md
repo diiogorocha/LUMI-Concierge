@@ -34,8 +34,9 @@ sequência, recriar as tabelas de preço como documento.
 4. Apresentação de agências/parceiros (PT), nova versão pronta com a
    identidade aprovada (2026-10-23). Entregue em
    `entregas/design-criativos/apresentacao-agencias-2026-10-23/` (HTML-fonte,
-   PDF 16:9 e PNG de cada slide); **aguarda aprovação da dona**. Sem preço
-   (decisão da dona). Textos e informações mantidos; o original em `contexto/materiais/` não foi alterado.
+   PDF 16:9 e PNG de cada slide); **aguarda aprovação da dona**. Sem preço,
+   sem discriminar presencial/virtual e com as fotos do original (decisões
+   da dona). Textos e informações mantidos; o original em `contexto/materiais/` não foi alterado.
 
 ## Decisões em vigor
 | Data | Decisão | Quem decidiu |
@@ -51,6 +52,8 @@ sequência, recriar as tabelas de preço como documento.
 | 2026-10-23 | A dona não tem Canva Pro: usar o caminho da conta gratuita | Dona |
 | 2026-10-23 | Melhorar a apresentação de agências/parceiros: nova versão pronta (recriar os slides com a identidade aprovada, em PDF, mantendo os textos e as informações dela). A do cliente fica para depois | Dona |
 | 2026-10-23 | Apresentação de agências sem preço | Dona ('nao vamos colocar preco nessa apresentacao') |
+| 2026-10-23 | Apresentação de agências mantém as fotos do original (exceção à regra de imagens do guia, só para esta peça) | Dona ('quero que vc mantenha as fotos, conforme estavam') |
+| 2026-10-23 | Apresentação de agências não discrimina o serviço (presencial/virtual) | Dona ('Nao vamos discriminar o servico') |
 
 ## Ideias da dona (ainda não decididas)
 - 2026-10-23: melhorar o PDF de apresentação para cliente (a de parceria

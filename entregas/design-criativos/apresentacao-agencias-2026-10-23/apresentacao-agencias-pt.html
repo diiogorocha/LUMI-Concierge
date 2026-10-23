@@ -44,6 +44,7 @@ h2{font-size:84px;line-height:1.08;margin-top:28px}
 .pg{position:absolute;right:120px;bottom:56px;display:flex;align-items:center;gap:12px;font:400 22px/1 var(--sans);color:var(--ardosia);font-variant-numeric:lining-nums tabular-nums}
 .pg .star{width:18px;height:18px}
 .pg.light{color:rgba(254,250,239,.8)}
+.pg.on-creme{right:880px}
 
 /* 1. capa */
 .s1{display:flex;flex-direction:column}
@@ -54,7 +55,10 @@ h2{font-size:84px;line-height:1.08;margin-top:28px}
 .s1 h1{font-size:100px;line-height:1.06;margin-top:28px}
 .s1 .sub{font:400 36px/1.42 var(--sans);color:var(--creme);margin-top:36px;max-width:1080px}
 .s1 .site{position:absolute;left:120px;bottom:120px;font:400 24px/1 var(--sans);letter-spacing:.06em;color:rgba(254,250,239,.8)}
-.s1 .bigstar{position:absolute;right:260px;top:430px;width:220px;height:220px}
+.s1{background:var(--marinho) url("fotos/capa-castelo-walt-mickey.jpg") center 38%/cover no-repeat}
+.s1::before{content:"";position:absolute;inset:0;background:linear-gradient(90deg,rgba(15,60,93,.94) 0%,rgba(15,60,93,.86) 42%,rgba(15,60,93,.45) 72%,rgba(15,60,93,.3) 100%)}
+.s1 > *{position:relative}
+.s1 .site{position:absolute}
 
 /* metade creme + painel marinho */
 .split{display:grid;grid-template-columns:1fr 760px;padding:0}
@@ -66,8 +70,13 @@ h2{font-size:84px;line-height:1.08;margin-top:28px}
 .list{list-style:none;margin-top:44px;max-width:900px;border-top:1px solid var(--linha)}
 .list li{display:flex;align-items:baseline;gap:28px;padding:22px 0;border-bottom:1px solid var(--linha);font:400 33px/1.3 var(--sans);color:var(--marinho)}
 .list .n{font:700 26px/1 var(--sans);color:var(--dourado-escuro);letter-spacing:.04em;width:44px;flex:none;font-variant-numeric:lining-nums tabular-nums}
-.s2 .panel .star{width:56px;height:56px}
-.s2 .panel .quote{font-size:56px;line-height:1.22;color:var(--creme);margin-top:40px}
+.s2 .panel{padding:80px 60px;align-items:center}
+.s2 .panel img{width:600px;height:auto;display:block}
+.s2 h2{font-size:78px}
+.s2 .lead{font-size:31px;margin-top:26px}
+.s2 .list{margin-top:34px}
+.s2 .list li{font-size:31px;padding:17px 0}
+.s2 .quote.after{font-size:38px;line-height:1.25;color:var(--marinho);margin-top:34px;max-width:900px}
 
 /* 3. solução */
 .s3 .lead{max-width:1320px}
@@ -103,13 +112,14 @@ h2{font-size:84px;line-height:1.08;margin-top:28px}
 .s5 .main p.txt{font:400 32px/1.48 var(--sans);color:var(--marinho);max-width:930px}
 .s5 .main p.first{margin-top:36px}
 .s5 .main p.quote{font-size:44px;line-height:1.2;color:var(--marinho);margin:26px 0}
-.facts{list-style:none}
-.facts li{padding:44px 0;border-bottom:1px solid rgba(254,250,239,.2)}
-.facts li:first-child{padding-top:0}
-.facts li:last-child{border-bottom:0;padding-bottom:0}
-.facts .big{font:600 80px/1 var(--serif);color:var(--dourado-claro);font-variant-numeric:lining-nums}
-.facts .big.num{font:400 76px/1 var(--sans);letter-spacing:.01em}
-.facts .cap{font:400 30px/1.35 var(--sans);color:var(--creme);margin-top:14px}
+.s5 h2{font-size:78px}
+.s5 .main p.txt{font-size:30px}
+.s5 .main p.quote{font-size:40px;margin:20px 0}
+.s5 .photo{background:var(--marinho) url("fotos/a-lumi-castelo.jpg") center 30%/cover no-repeat}
+.facts{list-style:none;display:grid;grid-template-columns:repeat(3,1fr);gap:32px;margin-top:44px;padding-top:36px;border-top:1px solid var(--linha);max-width:930px}
+.facts .big{font:600 58px/1 var(--serif);color:var(--dourado-escuro);font-variant-numeric:lining-nums}
+.facts .big.num{font:400 54px/1.07 var(--sans);letter-spacing:.01em}
+.facts .cap{font:400 24px/1.35 var(--sans);color:var(--ardosia);margin-top:12px}
 
 /* 6. para agências */
 .s6 h2{font-size:80px}
@@ -141,7 +151,6 @@ h2{font-size:84px;line-height:1.08;margin-top:28px}
   <header class="head">
     <img class="logo" src="logo-lumi-invertido-recortado.png" alt="LUMI Concierge">
   </header>
-  <svg class="star bigstar" viewBox="0 0 100 100" aria-hidden="true"><use href="#st"/></svg>
   <div class="body">
     <p class="eyebrow">Orlando, FL</p>
     <h1>Acompanhamento LUMI<br>nos parques Disney</h1>
@@ -163,10 +172,10 @@ h2{font-size:84px;line-height:1.08;margin-top:28px}
       <li><span class="n">03</span>Horários que mudam e atrações que podem ficar indisponíveis</li>
       <li><span class="n">04</span>Dificuldade para saber o que priorizar e fazer a seguir</li>
     </ol>
+    <p class="quote after">Sem esse acompanhamento, muitas famílias acabam perdendo tempo e aproveitando menos do que poderiam.</p>
   </div>
   <div class="panel">
-    <svg class="star" viewBox="0 0 100 100" aria-hidden="true"><use href="#st"/></svg>
-    <p class="quote">Sem esse acompanhamento, muitas famílias acabam perdendo tempo e aproveitando menos do que poderiam.</p>
+    <img src="fotos/desafio-telas-app.png" alt="Telas do aplicativo da Disney">
   </div>
   <p class="pg light"><svg class="star" viewBox="0 0 100 100"><use href="#st"/></svg>02</p>
 </section>
@@ -223,15 +232,14 @@ h2{font-size:84px;line-height:1.08;margin-top:28px}
     <p class="txt first">A experiência que deu origem à LUMI começou em 2021, quando sua fundadora passou a acompanhar famílias nos parques da Disney e percebeu a necessidade de um suporte que tornasse esses dias mais tranquilos e bem aproveitados.</p>
     <p class="quote">Assim nasceu a LUMI Concierge.</p>
     <p class="txt">Hoje, contamos com uma equipe em Orlando e estamos presentes nos parques todas as semanas.</p>
-  </div>
-  <div class="panel">
     <ul class="facts">
       <li><p class="big num">2021</p><p class="cap">Acompanhando famílias nos parques</p></li>
       <li><p class="big">Orlando</p><p class="cap">Equipe local</p></li>
       <li><p class="big">Disney</p><p class="cap">Presença semanal</p></li>
     </ul>
   </div>
-  <p class="pg light"><svg class="star" viewBox="0 0 100 100"><use href="#st"/></svg>05</p>
+  <div class="photo" role="img" aria-label="Castelo do Magic Kingdom com público"></div>
+  <p class="pg on-creme"><svg class="star" viewBox="0 0 100 100"><use href="#st"/></svg>05</p>
 </section>
 
 <!-- 6. Para agências -->
