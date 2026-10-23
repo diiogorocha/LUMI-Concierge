@@ -3,13 +3,21 @@
 Aqui fica o projeto em andamento: objetivo, decisões e o que está valendo.
 Dados da empresa ficam em `contexto/`.
 
-**Status:** projeto ativo: **Identidade visual da LUMI** (iniciado em
-2026-10-23).
+**Status:** projeto ativo: **Metas dos próximos 3 a 12 meses** (iniciado em
+2026-10-23). Projeto anterior concluído: identidade visual e tabelas de preço
+(ver abaixo).
 
 Projetos anteriores ficam em `arquivo/`. Servem só de consulta e não valem
 como decisão.
 
-## Projeto atual: identidade visual
+## Projeto atual: metas dos próximos 3 a 12 meses
+**Objetivo:** definir metas e prioridades da LUMI para os próximos 3 a 12
+meses (setor estrategia-negocio).
+
+**Etapas:**
+1. Diagnóstico e proposta de metas com cenários. Em andamento.
+
+## Projeto concluído: identidade visual (2026-10-23)
 **Objetivo:** criar a identidade visual da LUMI a partir do logo atual. Na
 sequência, recriar as tabelas de preço como documento.
 
