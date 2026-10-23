@@ -409,9 +409,9 @@ folha.
 
 **Padrão de título (igual nas 5, versão 5):**
 1. Título em Cormorant = **nome do serviço** (ex.: "Tour Presencial").
-2. Linha dourada em caixa alta (Lato Bold, Dourado Escuro) **só quando há
-   informação extra**, logo abaixo do título (ex.: "COMISSÃO DE 15% POR
-   INDICAÇÃO" nas parcerias).
+2. Linha dourada em caixa alta (Lato Bold, Dourado Escuro) logo abaixo do
+   título, com **o público da tabela** (e a comissão, nas parcerias), para
+   não confundir a tabela brasileira com a americana.
 3. Filete dourado curto embaixo.
 4. Nada de "Experiência LUMI", subtítulo ou frase de apoio.
 
@@ -428,7 +428,7 @@ medida com PIL, altura do desenho dos glifos):
 | Margens | 90 px nas laterais, em cima e embaixo | — | 90 px |
 | Logo | logo positivo recortado, 56 px de altura, à esquerda | 54 px | marca 56 px |
 | Selo | pílula, borda 1,5 px Dourado Escuro, Lato Bold 13 px caixa alta, espaçamento 0,2 em ("VALORES", "PRICING", "PARCERIAS") | 42 px de altura | 43 px |
-| Linha dourada (só parcerias) | Lato Bold 16 px, caixa alta, espaçamento 0,18 em, Dourado Escuro `#8A5F22`; 14 px abaixo do título | — | — |
+| Linha dourada (público) | Lato Bold 16 px, caixa alta, espaçamento 0,18 em, Dourado Escuro `#8A5F22`; 14 px abaixo do título | — | — |
 | Título | nome do serviço, Cormorant Garamond SemiBold 54 px, entrelinha 64 px, 1 linha, 64 px abaixo do logo, Marinho | 54–55 px | 53–54 px |
 | Filete | 70 x 4 px, Dourado Estrela, 20 px abaixo do título (ou da linha dourada) | 70 x 4 | 70 x 4 |
 | Cabeçalho da tabela | 64 px de altura (56 px na tabela de 12 linhas), fundo Marinho, Lato Bold 14 px caixa alta, espaçamento 0,16 em, texto Creme | 64 px | 65 px |
@@ -443,11 +443,11 @@ medida com PIL, altura do desenho dos glifos):
 
 | Tabela | Título | Linha dourada | Selo | Caixa de nota |
 | --- | --- | --- | --- | --- |
-| presencial-pt | Tour Presencial | — | VALORES | sem caixa |
-| presencial-en | In-Person Park Tour | — | PRICING | sem caixa |
-| virtual-brasil-pt | Guiamento Virtual | — | VALORES | "Valores em dólar, convertidos para real pela cotação do dia." |
-| virtual-americanos-en | Virtual Park Guidance | — | PRICING | "From 11 guests: 5% off the total." |
-| virtual-parceiros-pt | Guiamento Virtual | COMISSÃO DE 15% POR INDICAÇÃO | PARCERIAS | "Comissão paga a cada indicação confirmada." |
+| presencial-pt | Tour Presencial | CLIENTES BRASILEIROS | VALORES | sem caixa |
+| presencial-en | In-Person Park Tour | U.S. CLIENTS · USD | PRICING | sem caixa |
+| virtual-brasil-pt | Guiamento Virtual | CLIENTES BRASILEIROS | VALORES | "Valores em dólar, convertidos para real pela cotação do dia." |
+| virtual-americanos-en | Virtual Park Guidance | U.S. CLIENTS · USD | PRICING | "From 11 guests: 5% off the total." |
+| virtual-parceiros-pt | Guiamento Virtual | PARCEIROS NO BRASIL · COMISSÃO DE 15% POR INDICAÇÃO | PARCERIAS | "Comissão paga a cada indicação confirmada." |
 
 Parcerias: colunas "Pessoas / Valor do tour / Sua comissão (15%)", sem frase
 explicando as colunas.
