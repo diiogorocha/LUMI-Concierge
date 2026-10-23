@@ -14,7 +14,9 @@ como decisão.
 sequência, recriar as tabelas de preço como documento.
 
 **Etapas:**
-1. Guia de identidade visual (setor design-criativos). Em andamento.
+1. Guia de identidade visual (setor design-criativos). Entregue em
+   `entregas/design-criativos/2026-10-23-identidade-visual.md`; aguarda a
+   aprovação da dona.
 2. Recriar as 3 tabelas de preço com a nova identidade. Aguarda a aprovação
    da etapa 1.
 

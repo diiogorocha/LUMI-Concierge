@@ -39,3 +39,22 @@ Registre aqui, com data, o que funcionou, o que não funcionou e o que o dono pe
   FAQ. Para conferir textos do site, abra no navegador (Playwright) e clique
   nos itens antes de afirmar qualquer coisa.
 - **Origem:** conversa com a dona.
+
+## 2026-10-23 — Identidade visual (etapa 1)
+- **Aprendizado:** a melhor base visual que já existe são as apresentações em
+  PDF: Cormorant Garamond (títulos) + Lato (texto), confirmado com `pdffonts`.
+  O site usa Playfair Display, Inter e Montserrat, e cada tabela usa outra
+  dupla de fontes. O guia unifica tudo em Cormorant Garamond + Lato.
+- **Aprendizado:** a Cormorant tem algarismos "antigos" (no Canva, "01" parece
+  "OI" e o "3" desce da linha). Número sozinho (preço, 01, ano) vai em Lato.
+- **Aprendizado:** o dourado do logo (`#B68237`) não passa no contraste AA para
+  texto pequeno (3,23:1 sobre o creme). Para texto, use o Dourado Escuro
+  `#8A5F22` no fundo claro e o Dourado Claro `#D9AE6A` no marinho.
+- **Aprendizado:** os PNG do logo têm 500x500 com borda transparente larga
+  (desenho em x 96–398, y 134–360). Recorte antes de usar.
+- **Para ver o site:** Chromium em `/opt/pw-browsers/chromium-1243/chrome-linux64/chrome`,
+  Playwright com `NODE_PATH=$(npm root -g)`. Fontes reais do site lidas por
+  `getComputedStyle`.
+- **Origem:** guia de identidade visual,
+  `entregas/design-criativos/2026-10-23-identidade-visual.md` (aguarda
+  aprovação da dona).

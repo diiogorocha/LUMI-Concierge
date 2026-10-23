@@ -27,7 +27,8 @@
 - **Materiais existentes:** apresentações e tabelas de preço em
   `contexto/materiais/`. Usam o azul-marinho, o creme e o dourado do logo, com
   títulos em serifada e um ícone "L" num círculo marinho. Os PDFs de
-  apresentação usam Lato (títulos em serifada provavelmente como imagem).
+  apresentação usam Cormorant Garamond (títulos) e Lato (texto), conforme o
+  `pdffonts`.
   Cada tabela de preço usa uma fonte diferente. A dona quer refazer depois de criar a identidade
   visual.
 - **Referências (marcas, perfis, criadores):** [SEM DADO]
