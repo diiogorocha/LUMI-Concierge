@@ -14,16 +14,21 @@ como decisão.
 sequência, recriar as tabelas de preço como documento.
 
 **Etapas:**
-1. Guia de identidade visual (setor design-criativos). Entregue em
-   `entregas/design-criativos/2026-10-23-identidade-visual.md`; aguarda a
-   aprovação da dona.
-2. Recriar as 3 tabelas de preço com a nova identidade. Aguarda a aprovação
-   da etapa 1.
+1. Guia de identidade visual (setor design-criativos). Aprovado em
+   2026-10-23: `entregas/design-criativos/2026-10-23-identidade-visual.md`.
+2. Recriar as tabelas de preço com a nova identidade. Em andamento.
+3. Carrossel e templates de post: depois (a dona não gostou da versão de
+   carrossel da prévia).
 
 ## Decisões em vigor
 | Data | Decisão | Quem decidiu |
 | --- | --- | --- |
 | 2026-10-23 | Primeiro projeto: identidade visual; depois, recriar as tabelas | Dona ("quero acionar o squad para identidade visual e posteriormente recriar as tabelas") |
+| 2026-10-23 | Guia de identidade aprovado: paleta, fontes e template de tabela | Dona ("as cores estão no caminho [...] tudo ok, a tabela também ok") |
+| 2026-10-23 | Sem aviso de "sem vínculo com a Disney" no rodapé das peças | Dona ("pode tirar esse aviso do rodapé") |
+| 2026-10-23 | Tabelas a fazer: presencial; virtual Brasil; virtual americanos; virtual Brasil para parceiros (com comissão de 15%) | Dona |
+| 2026-10-23 | Formato das tabelas: imagem para WhatsApp e PDF para parceiros e e-mail | Sugerido pelo Claude, a confirmar pela dona |
+| 2026-10-23 | A dona não tem Canva Pro: usar o caminho da conta gratuita | Dona |
 
 ## Ideias da dona (ainda não decididas)
 - 2026-10-23: melhorar o PDF de apresentação para cliente e para parceria.
