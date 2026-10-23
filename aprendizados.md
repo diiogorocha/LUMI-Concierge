@@ -157,3 +157,41 @@ Registre aqui, com data, o que funcionou, o que não funcionou e o que o dono pe
 - **Origem:** proposta de metas,
   `entregas/estrategia-negocio/2026-10-23-metas-3-12-meses.md` (aguarda a
   dona).
+
+## 2026-10-23 — Apresentação de agências (16:9)
+- **Aprendizado:** o mesmo método das tabelas serve para slides: um HTML com
+  uma `<section>` de 1920x1080 por slide, `@page{size:1920px 1080px;margin:0}`
+  e `break-after:page`; o Playwright gera o PDF (7 páginas, 1440x810 pt) e o
+  PNG de cada slide com `elementHandle.screenshot`. Fontes embutidas
+  conferidas com `pdffonts` (Cormorant SemiBold e Medium Italic, Lato Regular
+  e Bold).
+- **Aprendizado:** nos PDFs da dona, parte do texto está "chapada" em imagem
+  (cards dos slides 3 e 6): o `pdftotext` não acha. Sempre renderizar as
+  páginas (`pdftoppm`) e ler os slides antes de dizer que um texto não existe.
+- **Aprendizado (dona):** troquei as fotos do original (castelo, estátua de
+  Walt e Mickey, telas do app) por painéis marinho, seguindo o guia, e a dona
+  pediu de volta: "quero que vc mantenha as fotos, conforme estavam". Ao
+  recriar peça dela, mantenha as imagens do original e pergunte antes de
+  aplicar uma regra do guia que tire algo que ela escolheu. Ficou como
+  exceção só para esta peça (`projeto/README.md`).
+- **Aprendizado (técnico):** `pdfimages -all` tira as fotos do PDF da dona em
+  resolução original; as telas do app vêm com máscara (smask) separada, que
+  vira transparência com PIL (`putalpha`). A foto da capa tem só 1255 px:
+  em tela cheia 1920 fica um pouco suave, mas aceitável sob a película
+  marinho (degradê da esquerda, onde está o texto, para a direita). Número de
+  página não vai sobre foto.
+- **Aprendizado (dona):** a apresentação de agências não discrimina o
+  serviço (presencial/virtual): continua genérica.
+- **Aprendizado:** para leitura no celular (a apresentação vai por WhatsApp),
+  o texto foi usado maior que o guia (corpo 32–34 px, rótulo 22–24 px,
+  título 80–100 px no 1920x1080) e no máximo 5 cards por slide.
+- **Erro a não repetir:** no CSS, regra genérica como `.s5 .main p{font:...}`
+  apaga a cor do rótulo e o itálico das frases (mais específica que
+  `.eyebrow`/`.quote`). Dê classe própria ao parágrafo de texto.
+- **Aprendizado (dona):** a apresentação de agências não leva preço, tabela
+  nem valor de comissão ("nao vamos colocar preco nessa apresentacao"). Ao
+  recriar uma peça da dona, não acrescente nem reescreva texto (selo, título
+  de contato): a copy é ajustada depois, numa etapa própria.
+- **Origem:** produção da apresentação em
+  `entregas/design-criativos/apresentacao-agencias-2026-10-23/` (aguarda a
+  dona).

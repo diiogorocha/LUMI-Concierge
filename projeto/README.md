@@ -31,6 +31,12 @@ sequência, recriar as tabelas de preço como documento.
    `entregas/design-criativos/tabelas-2026-10-23/`.
 3. Carrossel e templates de post: depois (a dona não gostou da versão de
    carrossel da prévia).
+4. Apresentação de agências/parceiros (PT), nova versão pronta com a
+   identidade aprovada (2026-10-23). Entregue em
+   `entregas/design-criativos/apresentacao-agencias-2026-10-23/` (HTML-fonte,
+   PDF 16:9 e PNG de cada slide); **aguarda aprovação da dona**. Sem preço,
+   sem discriminar presencial/virtual e com as fotos do original (decisões
+   da dona). Textos e informações mantidos; o original em `contexto/materiais/` não foi alterado.
 
 ## Decisões em vigor
 | Data | Decisão | Quem decidiu |
@@ -44,9 +50,14 @@ sequência, recriar as tabelas de preço como documento.
 | 2026-10-23 | Padrão de título das tabelas: título = nome do serviço (sem "Experiência LUMI"); linha dourada em caixa alta com o público ("Clientes brasileiros" / "U.S. clients · USD" / "Parceiros no Brasil · Comissão de 15% por indicação"); caixa de nota quando houver nota; estrela + "Valor por parque, por dia" logo abaixo da tabela | Dona ("experiencia lumi eh desnecessario"; "gosto daquela letra em caps lock, dourado"; "valor por parque por dia pode estar mais prox ao final da tabela"; "precisamos discriminar qual tabela eh p clientes brasileiros e qual eh americanos") |
 | 2026-10-23 | Nomes: PT "Tour Presencial" e "Tour Virtual"; EN "In-Person Park Guidance" e "Virtual Park Guidance"; um termo por idioma; colunas "Participantes / Valor" | Dona ("guiamento soa estranho [...] os clientes pedem tour"); manter "Guidance" em inglês foi sugestão do Claude |
 | 2026-10-23 | A dona não tem Canva Pro: usar o caminho da conta gratuita | Dona |
+| 2026-10-23 | Melhorar a apresentação de agências/parceiros: nova versão pronta (recriar os slides com a identidade aprovada, em PDF, mantendo os textos e as informações dela). A do cliente fica para depois | Dona |
+| 2026-10-23 | Apresentação de agências sem preço | Dona ('nao vamos colocar preco nessa apresentacao') |
+| 2026-10-23 | Apresentação de agências mantém as fotos do original (exceção à regra de imagens do guia, só para esta peça) | Dona ('quero que vc mantenha as fotos, conforme estavam') |
+| 2026-10-23 | Apresentação de agências não discrimina o serviço (presencial/virtual) | Dona ('Nao vamos discriminar o servico') |
 
 ## Ideias da dona (ainda não decididas)
-- 2026-10-23: melhorar o PDF de apresentação para cliente e para parceria.
+- 2026-10-23: melhorar o PDF de apresentação para cliente (a de parceria
+  virou decisão e entrega em 2026-10-23, ver acima).
 
 ## Decisões revogadas
 | Data | O que era | Por que mudou |
