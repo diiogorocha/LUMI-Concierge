@@ -448,6 +448,7 @@ medida com PIL, altura do desenho dos glifos):
 | virtual-brasil-pt | Guiamento Virtual | CLIENTES BRASILEIROS | VALORES | "Valores em dólar, convertidos para real pela cotação do dia." |
 | virtual-americanos-en | Virtual Park Guidance | U.S. CLIENTS · USD | PRICING | "From 11 guests: 5% off the total." |
 | virtual-parceiros-pt | Guiamento Virtual | PARCEIROS NO BRASIL · COMISSÃO DE 15% POR INDICAÇÃO | PARCERIAS | "Comissão paga a cada indicação confirmada." |
+| presencial-parceiros-pt | Tour Presencial | PARCEIROS NO BRASIL · COMISSÃO DE 15% POR INDICAÇÃO | PARCERIAS | "Comissão paga a cada indicação confirmada." |
 
 Parcerias: colunas "Pessoas / Valor do tour / Sua comissão (15%)", sem frase
 explicando as colunas.
