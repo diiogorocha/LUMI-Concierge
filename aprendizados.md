@@ -157,3 +157,11 @@ Registre aqui, com data, o que funcionou, o que não funcionou e o que o dono pe
 - **Origem:** proposta de metas,
   `entregas/estrategia-negocio/2026-10-23-metas-3-12-meses.md` (aguarda a
   dona).
+
+## 2026-10-23 — Metas: conferir premissas com a dona
+- **Erro a não repetir:** a proposta de metas usou $750 por família
+  (3 parques) e 22 dias de trabalho no mês sem perguntar. A dona corrigiu: a
+  família média tem 4 pessoas e faz 3 a 4 parques; no virtual, isso dá $800
+  (Brasil) ou $1.000 (EUA) por família. Número que muda a meta (ticket, dias
+  de trabalho, mix de serviços) se pergunta antes de calcular.
+- **Origem:** retorno da dona sobre `entregas/estrategia-negocio/2026-10-23-metas-3-12-meses.md`.

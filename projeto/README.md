@@ -16,8 +16,12 @@ meses (setor estrategia-negocio).
 
 **Etapas:**
 1. Diagnóstico e proposta de metas com cenários. Entregue em
-   `entregas/estrategia-negocio/2026-10-23-metas-3-12-meses.md`; aguarda as
-   respostas e a aprovação da dona.
+   `entregas/estrategia-negocio/2026-10-23-metas-3-12-meses.md`. A dona
+   apontou dois erros: 12 famílias/mês é teto teórico (os 22 dias de trabalho
+   foram premissa) e o valor por família foi subestimado. Valor certo para
+   4 pessoas e 4 parques no virtual: $800 (Brasil) ou $1.000 (EUA).
+2. Revisar as metas com o foco no virtual e com as respostas da dona.
+   Aguarda as respostas.
 
 ## Projeto concluído: identidade visual (2026-10-23)
 **Objetivo:** criar a identidade visual da LUMI a partir do logo atual. Na
@@ -35,6 +39,7 @@ sequência, recriar as tabelas de preço como documento.
 ## Decisões em vigor
 | Data | Decisão | Quem decidiu |
 | --- | --- | --- |
+| 2026-10-23 | Projeto de metas: a prospecção foca no Tour Virtual (não no presencial) | Dona ("vamos focar no virtual p fazer essa prospeccao") |
 | 2026-10-23 | Primeiro projeto: identidade visual; depois, recriar as tabelas | Dona ("quero acionar o squad para identidade visual e posteriormente recriar as tabelas") |
 | 2026-10-23 | Guia de identidade aprovado: paleta, fontes e template de tabela | Dona ("as cores estão no caminho [...] tudo ok, a tabela também ok") |
 | 2026-10-23 | Sem aviso de "sem vínculo com a Disney" no rodapé das peças | Dona ("pode tirar esse aviso do rodapé") |
