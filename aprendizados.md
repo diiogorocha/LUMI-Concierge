@@ -100,3 +100,25 @@ Registre aqui, com data, o que funcionou, o que não funcionou e o que o dono pe
   210 mm) e altura de 1527 px; o resto do A4 fica como respiro.
 - **Origem:** reprovação da dona e refação das tabelas em
   `entregas/design-criativos/tabelas-2026-10-23/`.
+
+## 2026-10-23 — Padrão de título das tabelas de preço aprovado pela dona
+- **Aprendizado:** padrão de título aprovado para as 5 tabelas (igual em
+  todas): sobretítulo dourado em caixa alta (Lato Bold, Dourado Escuro
+  `#8A5F22`, espaçamento 0,18 em, 16 px no 1080x1350) com o **nome do
+  serviço**; título Cormorant de uma linha curta ("Experiência LUMI" / "The
+  LUMI Experience" / "Comissão de 15% por indicação"); filete dourado curto.
+  Sem subtítulo nem frase de apoio. Embaixo: caixa de nota (Areia + barra
+  dourada) só quando há nota, e rodapé com a estrela + "Valor por parque, por
+  dia" em Lato Bold Marinho. Sem site e sem telefone.
+- **Aprendizado:** o sobretítulo é o que diz que a tabela é virtual; sem ele,
+  as tabelas virtuais não diziam o serviço.
+- **Aprendizado (nomes dos serviços):** PT "Tour Presencial" e "Guiamento
+  Virtual"; EN "In-Person Park Tour" e "Virtual Park Guidance". "Virtual
+  tour" em inglês e "tour virtual" em português soam como visita online em
+  360°; "assistance" lembra o serviço de acessibilidade da Disney.
+- **Aprendizado:** com a página em `display:flex; flex-direction:column`, o
+  rodapé com `margin:auto 0 0` encosta na margem de baixo; zere a margem de
+  baixo do `<p>` (o padrão de 1em empurra o rodapé 21 px para cima).
+- **Origem:** pedido da dona na rodada 4 das tabelas em
+  `entregas/design-criativos/tabelas-2026-10-23/` e seção 8a do guia
+  `entregas/design-criativos/2026-10-23-identidade-visual.md`.
