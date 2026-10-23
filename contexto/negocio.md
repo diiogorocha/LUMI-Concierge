@@ -45,10 +45,20 @@
   Em 2026-10-23: 35 seguidores, 3 seguindo. Bio em inglês: "Lumi | Disney &
   Orlando Concierge / Making your Orlando experience feel easier ✨ / We take
   care of the details, so you can enjoy every moment." Link:
-  linktr.ee/lumiconcierge. Posts vistos: "3 restaurants that are incredibly
-  hard to book", "What is Disney like in November", "Travel feels even [...]
-  when you have someone to count on", "Skip the line when ordering food at
-  Disney", além de Reels.
+  linktr.ee/lumiconcierge.
+- **Comunicação atual no Instagram** (print da dona em
+  `contexto/materiais/instagram-grade-2026-10-23.webp`): tudo em inglês, com
+  dicas de viagem e de parque. Posts:
+  - carrosséis: "3 restaurants that are incredibly hard to book", "What is
+    Disney like in November", "Travel feels even better when you have someone
+    to count on" (com o logo), "Happily Ever After — where to watch",
+    "3 Disney Resort perks that go beyond your hotel stay";
+  - Reels: "Skip the line when ordering food at Disney" (pedido pelo app),
+    castelo do Magic Kingdom com Tico e Teco, e uma mulher falando para a
+    câmera: "3 things I wish you knew before your first Disney trip".
+  - Visual: fotos de banco de imagem e dos parques, texto branco em serifada
+    e sem serifa, um post em fundo azul-marinho texturizado. Ainda não há
+    padrão fixo de template.
 - **TikTok:** citado como canal; status atual [SEM DADO].
 - **Site (Framer):** em português em https://lumi-concierge.com/ e em inglês
   em https://lumi-concierge.com/eua. Tem Pixel da Meta. A versão em inglês tem
@@ -62,6 +72,9 @@
   das duas: desafio → solução → como funciona (antes da viagem / no dia) →
   história desde 2021 → contato. Não trazem preço, depoimentos nem serviços
   complementares.
+- **Google Business:** https://share.google/qXxgUA4JfYLIoyMR4 (ID do Google:
+  /g/11z513spcf). O Google bloqueia o acesso automático: peça prints das
+  avaliações à dona.
 - **Contato (EUA):** +1 (352) 856-4860, para SMS e WhatsApp Business.
 - **Endereço físico:** não há.
 - **Ferramenta de e-mail:** nenhuma com disparo automático.
