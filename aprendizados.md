@@ -81,3 +81,22 @@ Registre aqui, com data, o que funcionou, o que não funcionou e o que o dono pe
   valor da tabela.
 - **Origem:** produção das tabelas em
   `entregas/design-criativos/tabelas-2026-10-23/`.
+
+## 2026-10-23 — Tabelas de preço reprovadas e refeitas (versão enxuta)
+- **Aprendizado:** Tabela de preço é direta. A dona reprovou letra e logo
+  grandes, frase de apoio e rodapé com contato. Use as tabelas originais dela
+  como referência de tamanho.
+- **Aprendizado:** medidas que bateram com a referência
+  (`contexto/materiais/tabela-tour-presencial.webp`) no canvas 1080x1350:
+  logo 56 px de altura, título Cormorant 54 px em 2 linhas, cabeçalho 64 px
+  com Lato Bold 14 px, linhas de 91 px (4 linhas) ou 80 px (6 linhas),
+  números Lato Regular 26 px, linha final em Lato Itálico 16 px. Compare
+  medindo a altura dos glifos com PIL (faixas de pixels), não no olho.
+- **Aprendizado:** o atalho `font:` no CSS zera `font-variant-numeric`. Sem
+  repor `lining-nums` depois dele, a Cormorant mostra "15%" com algarismos
+  antigos (parece "I5%").
+- **Aprendizado:** para o PDF A4 sair com as mesmas proporções do PNG, basta
+  `zoom: 210/285.75` na página dentro de `@media print` (1080 px viram
+  210 mm) e altura de 1527 px; o resto do A4 fica como respiro.
+- **Origem:** reprovação da dona e refação das tabelas em
+  `entregas/design-criativos/tabelas-2026-10-23/`.

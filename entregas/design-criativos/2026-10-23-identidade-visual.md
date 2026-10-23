@@ -387,69 +387,58 @@ Disney continua valendo pelas escolhas de foto e de elementos acima.
   embaixo. Nada importante fora disso (a grade do Instagram corta as bordas).
 - **Slide:** 1920 x 1080 px. Margem de 120 px.
 
-### 8a. Tabela de preço (A4)
+### 8a. Tabela de preço (modelo enxuto)
 
-Uma estrutura para as 3 tabelas. O que muda é o selo, o título, as colunas e
-a nota.
+**Revisado em 2026-10-23 a pedido da dona.** A primeira versão foi reprovada
+("letras e logos muito grandes... não precisa dos textos de baixo. Eu quero
+bem objetivo"). Tabela de preço é direta: **não leva sobretítulo, frase de
+apoio, caixa de nota nem contato (site, telefone).** A referência de tamanho
+são as tabelas originais da dona em `contexto/materiais/`
+(`tabela-tour-presencial.webp` é a melhor).
 
-**1. Cabeçalho** (faixa de ~35 mm)
-- Esquerda: logo positivo recortado, 32 a 38 mm de largura.
-- Direita, alinhado ao centro do logo: selo pílula com o público. Exemplos:
-  "Clientes EUA · USD", "Parcerias", "Presencial".
-- Fundo Creme. Sem linha embaixo (o espaço já separa).
+Uma estrutura para as 5 tabelas, desenhada no canvas 1080 x 1350 px. O PDF A4
+é a mesma página reduzida para 210 mm de largura (1 px = 0,194 mm); como o A4
+é mais alto, sobra respiro embaixo, como numa folha de tabela.
 
-**2. Título**
-- Rótulo: nome do produto em Lato Bold caixa alta 9 pt, Dourado Escuro
-  ("GUIAMENTO VIRTUAL" / "VIRTUAL PARK GUIDANCE", "TOUR PRESENCIAL").
-- Título: Cormorant Garamond SemiBold 32 pt, Marinho, até 2 linhas.
-- Filete dourado 2 pt x 18 mm, 4 mm abaixo do título.
-- Subtítulo: Lato Regular 12 pt, Ardósia, 1 linha explicando o que é.
+Medidas usadas (em px no 1080 x 1350; entre parênteses, a referência da dona
+medida com PIL, altura do desenho dos glifos):
 
-**3. Tabela**
-- Largura total da área de texto (170 mm). No máximo 3 colunas.
-- Cabeçalho: fundo Marinho, texto Creme em Lato Bold caixa alta 9 pt,
-  altura 10 mm, cantos de cima com raio 2 mm (ou retos).
-- Coluna 1 (pessoas) à esquerda: Lato Regular 12 pt, Marinho. Escreva
-  "1–2" com traço curto (–), sem a palavra "pessoas" em cada linha (ela vai
-  no cabeçalho).
-- Coluna de preço à direita: Lato Bold 16 a 18 pt, Marinho.
-- Coluna extra, quando houver (comissão, ou valor sem desconto): no meio ou à
-  direita, Lato Bold 14 a 16 pt, Dourado Escuro.
-- Linhas com 11 a 13 mm de altura, alternando Creme e Areia, separadas por
-  linha fina cor Linha.
-- **Linha com desconto:** fundo Mel; preço em Dourado Escuro Bold; o valor
-  sem desconto antes, riscado, em Lato 10 pt Ardósia; selo pílula pequeno
-  "5% off" / "5% de desconto" em Dourado Escuro.
-- **Comissão** (tabela de parcerias): coluna "Sua comissão (15%)" em Dourado
-  Escuro Bold. Sem fundo Mel em todas as linhas: o Mel fica para destaque.
+| Elemento | Especificação | Medido | Referência |
+| --- | --- | --- | --- |
+| Margens | 90 px nas laterais e em cima | — | 90 px |
+| Logo | logo positivo recortado, 56 px de altura, à esquerda | 54 px | marca 56 px |
+| Selo | pílula, borda 1,5 px Dourado Escuro, Lato Bold 13 px caixa alta, espaçamento 0,2 em ("VALORES", "PRICING", "PARCERIAS") | 42 px de altura | 43 px |
+| Título | Cormorant Garamond SemiBold 54 px, entrelinha 64 px, 2 linhas, Marinho, algarismos alinhados (`lining-nums`) | 54–55 px por linha | 53–54 px |
+| Filete | 70 x 4 px, Dourado Estrela, 20 px abaixo do título | 70 x 4 | 70 x 4 |
+| Subtítulo (só presencial) | Lato Itálico 18 px, Ardósia | 17 px | 20 px |
+| Cabeçalho da tabela | 64 px de altura (56 px na tabela de 12 linhas), fundo Marinho, Lato Bold 14 px caixa alta, espaçamento 0,16 em, texto Creme | 64 px | 65 px |
+| Linhas | 91 px (4 linhas), 80 px (6 linhas), 54 px (12 linhas); Creme e Areia alternadas, fio de 1 px cor Linha | passo 91 / 80 / 54 | 91 / 78 / 57 |
+| Números | Lato Regular 26 px (21 px na tabela de 12 linhas), Marinho; nunca negrito | 25 px (20 px) | 24–26 px (18 px) |
+| Coluna extra (parcerias) | valor do tour em Ardósia, comissão em Dourado Escuro, ambos Lato Regular 26 px | 25 px | 26–28 px |
+| Desconto (americanos 11–15) | fundo Mel; preço em Dourado Escuro; valor cheio riscado Lato 15 px Ardósia; selo "5% off" Lato Bold 10 px | — | — |
+| Linha final | uma linha, Lato Itálico 16 px, Ardósia, 28 px abaixo da tabela | 15 px | 17 px |
 
-**4. Nota** (logo abaixo da tabela)
-- Caixa com fundo Areia, filete de 3 pt Dourado Estrela na borda esquerda,
-  Lato 10 pt Marinho, de 1 a 3 frases. Uso:
-  - regra de desconto ou de acréscimo (ex.: "+$50 por pessoa acima de 5");
-  - regra de comissão ("Comissão paga a cada indicação confirmada");
-  - conversão ("Valores em dólar, convertidos pela cotação do dia").
-- Se não houver nota, a caixa sai e o rodapé sobe.
+**Títulos (os da própria dona):** presencial "Experiência LUMI / Tour
+Presencial Disney" (EN "LUMI Experience / In-Person Disney Tour"); virtual
+Brasil "Experiência LUMI / nos Parques"; americanos "LUMI Experience / at the
+Parks"; parcerias "Comissão por / Indicação — 15%".
 
-**5. Rodapé** (preso à margem de baixo)
-- Linha fina cor Linha na largura toda.
-- Esquerda, em destaque: estrela pequena + **"Valor por parque, por dia"**
-  em Lato Bold 10 pt Marinho. Nunca em cinza-claro.
-- Direita: lumi-concierge.com · WhatsApp/SMS +1 (352) 856-4860, Lato 9 pt
-  Ardósia.
-- Aviso de independência: removido a pedido da dona em 2026-10-23.
-- Número de página só se tiver mais de 1 página ("1/2").
+**Linha final (a única coisa embaixo da tabela):**
+- presencial: "Valor por parque · por dia" / "Price per park · per day";
+- virtual Brasil: "Valor por parque · por dia";
+- americanos: "Price per park · per day · From 11 guests: 5% off the total";
+- parcerias: "Valor por parque · por dia · Comissão paga a cada indicação
+  confirmada".
 
-**Tabelas produzidas com este template (etapa 2, 2026-10-23):**
-`entregas/design-criativos/tabelas-2026-10-23/` (HTML-fonte, PNG 1080x1350 e
-PDF A4 de cada uma).
+**Não usar:** sobretítulo ("Guiamento virtual" etc.), frase de apoio, caixa de
+nota, rodapé com site e telefone, duração do tour, preço em negrito grande,
+logo grande. Pedido da dona em 2026-10-23.
 
-**Espaço vazio:** se a tabela for curta, não estique as linhas além de 14 mm.
-Deixe o respiro ou, na etapa 2, avalie um bloco curto "O que está incluído"
-com 3 itens de `contexto/oferta.md`.
+**Observação:** a Cormorant desenha o circunflexo (ê) alto e pontudo. É o
+desenho da fonte, não erro de arquivo.
 
-**Também como imagem:** para mandar no WhatsApp ou postar, a mesma estrutura
-cabe em 1080 x 1350 px com os tamanhos da coluna "Post" da seção 4.
+**Arquivos:** `entregas/design-criativos/tabelas-2026-10-23/` (HTML-fonte,
+PNG 1080x1350 gerado em 2x = 2160x2700, e PDF A4 de cada uma).
 
 ### 8b. Instagram
 

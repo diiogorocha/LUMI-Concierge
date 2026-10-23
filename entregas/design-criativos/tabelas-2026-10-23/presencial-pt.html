@@ -4,95 +4,70 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=1080">
 <title>Tour Presencial Valores</title>
-<!-- LUMI Concierge · tabela de preço · identidade aprovada pela dona em 2026-10-23.
-     Fonte dos valores: contexto/oferta.md. Gera PNG 1080x1350 (tela) e PDF A4 (impressão). -->
+<!-- LUMI Concierge · tabela de preço enxuta (versão 2, 2026-10-23, após reprovação da dona).
+     Medidas copiadas de contexto/materiais/tabela-tour-presencial.webp. Valores: contexto/oferta.md.
+     Gera PNG 1080x1350 (tela) e PDF A4 (impressão). -->
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,600;1,600&family=Lato:wght@400;700&display=block" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@600&family=Lato:ital,wght@0,400;0,700;1,400&display=block" rel="stylesheet">
 <style>
 :root{
   --marinho:#0F3C5D; --creme:#FEFAEF; --dourado:#B68237;
   --ardosia:#395B74; --areia:#F1E8D8; --linha:#E3D8C4;
-  --dourado-escuro:#8A5F22; --mel:#F6EBD3; --dourado-claro:#D9AE6A;
+  --dourado-escuro:#8A5F22; --mel:#F6EBD3;
   --serif:"Cormorant Garamond", Garamond, Georgia, serif;
   --sans:"Lato", "Helvetica Neue", Arial, sans-serif;
-
-  /* post 1080x1350 (px) */
-  --pw:1080px; --ph:1350px; --mx:96px; --mt:96px; --mb:90px;
-  --logo:160px; --head-gap:36px;
-  --seal:22px; --eyebrow:26px; --h1:76px; --rule-w:72px; --rule-h:4px;
-  --sub:32px; --th:24px; --th-h:60px; --td:36px; --price:52px; --extra:44px;
-  --row:66px; --strike:26px; --tag:18px;
-  --note:28px; --ppd:28px; --contact:24px; --star:22px;
+  /* medidas em px no canvas 1080x1350, copiadas da tabela original da dona */
+  --row:91px; --num:26px;
 }
-.dense{ --mt:88px; --mb:84px; --logo:132px; --head-gap:26px; --eyebrow:24px; --h1:62px; --sub:28px; --row:45px; --price:36px; --td:30px; --th-h:48px; --th:22px; --note:25px; --strike:22px; --tag:16px; }
-.airy{ --row:92px; --price:60px; --td:40px; }
+body.r6{ --row:80px; }
+body.r12{ --row:54px; --num:21px; }
 *{box-sizing:border-box}
 html,body{margin:0;background:var(--creme)}
 body{color:var(--marinho);font-family:var(--sans);-webkit-font-smoothing:antialiased;font-variant-numeric:lining-nums tabular-nums}
-.page{width:var(--pw);height:var(--ph);padding:var(--mt) var(--mx) var(--mb);display:flex;flex-direction:column;background:var(--creme);overflow:hidden}
-.head{display:flex;justify-content:space-between;align-items:center;margin-bottom:var(--head-gap)}
-.logo{width:var(--logo);height:auto;display:block}
-.seal{border:2px solid var(--dourado-escuro);color:var(--dourado-escuro);border-radius:999px;padding:.6em 1.1em;font:700 var(--seal)/1 var(--sans);letter-spacing:.18em;text-transform:uppercase;white-space:nowrap}
-.eyebrow{font:700 var(--eyebrow)/1.2 var(--sans);letter-spacing:.2em;text-transform:uppercase;color:var(--dourado-escuro);margin:0 0 .55em}
-h1{font:600 var(--h1)/1.05 var(--serif);margin:0;color:var(--marinho);font-variant-numeric:lining-nums}
-.rule{width:var(--rule-w);height:var(--rule-h);background:var(--dourado);border:0;margin:.42em 0 .5em;font-size:var(--sub)}
-.sub{font:400 var(--sub)/1.35 var(--sans);color:var(--ardosia);margin:0 0 1.2em}
+.page{width:1080px;height:1350px;padding:90px 90px 0;background:var(--creme);overflow:hidden}
+.head{display:flex;justify-content:space-between;align-items:center;height:56px}
+.logo{height:56px;width:auto;display:block}
+.seal{border:1.5px solid var(--dourado-escuro);color:var(--dourado-escuro);border-radius:999px;padding:13px 24px;font:700 13px/1 var(--sans);letter-spacing:.2em;text-transform:uppercase;white-space:nowrap}
+h1{font:600 54px/64px var(--serif);margin:76px 0 0;color:var(--marinho);letter-spacing:-.005em;font-variant-numeric:lining-nums}
+.rule{width:70px;height:4px;background:var(--dourado);border:0;margin:20px 0 0}
+.sub{font:italic 400 18px/1.3 var(--sans);color:var(--ardosia);margin:22px 0 0}
+.tbl{margin-top:44px}
+body.r12 .tbl{margin-top:40px}
 table{width:100%;border-collapse:collapse}
-th{background:transparent;color:var(--creme);font:700 var(--th)/1 var(--sans);letter-spacing:.15em;text-transform:uppercase;text-align:left;height:var(--th-h);padding:0 1.1em}
 thead tr{background:var(--marinho)}
-.tbl{border-radius:6px 6px 0 0;overflow:hidden}
-th:last-child{text-align:right}
-td{height:var(--row);padding:0 calc(var(--th) * 1.1);border-bottom:1px solid var(--linha);vertical-align:middle;font:400 var(--td)/1 var(--sans);white-space:nowrap}
-td:last-child{text-align:right}
+th{color:var(--creme);font:700 14px/1 var(--sans);letter-spacing:.16em;text-transform:uppercase;text-align:left;height:64px;padding:0 35px}
+body.r12 th{height:56px}
+th:last-child,td:last-child{text-align:right}
+td{height:var(--row);padding:0 35px;border-bottom:1px solid var(--linha);vertical-align:middle;font:400 var(--num)/1 var(--sans);white-space:nowrap;color:var(--marinho);font-variant-numeric:lining-nums tabular-nums}
 tbody tr:nth-child(even) td{background:var(--areia)}
-td.p,td.v{font:700 var(--price)/1 var(--sans)}
-.three td.v{font-size:var(--extra);text-align:right}
-.three th:nth-child(2){text-align:right}
-td.c{font:700 var(--price)/1 var(--sans);color:var(--dourado-escuro)}
+.three th:nth-child(2),.three td:nth-child(2){text-align:right}
+td.v{color:var(--ardosia)}
+td.c{color:var(--dourado-escuro)}
 tr.disc td{background:var(--mel) !important}
 tr.disc td.p{color:var(--dourado-escuro)}
-s{font:400 var(--strike)/1 var(--sans);color:var(--ardosia);margin-right:.7em;vertical-align:.15em}
-.tag{display:inline-block;margin-left:.9em;background:var(--mel);color:var(--dourado-escuro);border:1.5px solid var(--dourado-escuro);border-radius:999px;padding:.35em .8em;font:700 var(--tag)/1 var(--sans);letter-spacing:.12em;text-transform:uppercase;vertical-align:.25em}
-.note{margin:1.1em 0 0;background:var(--areia);border-left:6px solid var(--dourado);border-radius:0 6px 6px 0;padding:.7em .9em;font:400 var(--note)/1.4 var(--sans);color:var(--marinho)}
-.foot{margin-top:auto;border-top:2px solid var(--linha);padding-top:22px;display:flex;justify-content:space-between;align-items:center;gap:24px}
-.ppd{display:flex;align-items:center;gap:.5em;font:700 var(--ppd)/1.2 var(--sans);color:var(--marinho)}
-.star{width:var(--star);height:var(--star);fill:var(--dourado);flex:none}
-.contact{text-align:right;font:400 var(--contact)/1.45 var(--sans);color:var(--ardosia)}
+s{font:400 15px/1 var(--sans);color:var(--ardosia);margin-right:14px;vertical-align:2px}
+.tag{display:inline-block;margin-left:14px;color:var(--dourado-escuro);border:1px solid var(--dourado-escuro);border-radius:999px;padding:4px 8px;font:700 10px/1 var(--sans);letter-spacing:.1em;text-transform:uppercase;vertical-align:4px}
+.foot{font:italic 400 16px/1.3 var(--sans);color:var(--ardosia);margin:28px 0 0}
 
-/* PDF A4: mesma estrutura, medidas do guia (seção 8a) */
+/* PDF A4: a mesma página reduzida para 210 mm de largura; sobra respiro embaixo */
 @page{size:A4;margin:0}
 @media print{
-  :root, body.dense, body.normal, body.airy{
-    --pw:210mm; --ph:297mm; --mx:20mm; --mt:22mm; --mb:20mm;
-    --logo:36mm; --head-gap:13mm;
-    --seal:8.5pt; --eyebrow:9pt; --h1:32pt; --rule-w:18mm; --rule-h:2pt;
-    --sub:12pt; --th:9pt; --th-h:10mm; --td:12pt; --price:17pt; --extra:15pt;
-    --row:12.5mm; --strike:10pt; --tag:7pt;
-    --note:10pt; --ppd:10pt; --contact:9pt; --star:9pt;
-  }
-  body.dense{ --row:10.5mm; --head-gap:10mm; }
-  body.airy{ --row:15mm; --price:18pt; --td:13pt; }
-  .seal{border-width:1pt}
-  .tag{border-width:.75pt}
-  .note{border-left-width:3pt}
-  .foot{border-top-width:.75pt;padding-top:4mm}
-  td{border-bottom-width:.5pt}
+  .page{zoom:calc(210 / 285.75);height:1527px}
 }
 </style>
 </head>
-<body class="airy">
+<body class="r4">
 <main class="page">
   <header class="head">
     <img class="logo" src="logo-lumi-positivo-recortado.png" alt="LUMI Concierge">
     <span class="seal">Valores</span>
   </header>
-  <p class="eyebrow">Tour presencial</p>
-  <h1>Ao lado da sua família, parque&nbsp;a&nbsp;parque</h1>
+  <h1>Experiência LUMI<br>Tour Presencial Disney</h1>
   <hr class="rule">
-  <p class="sub">Acompanhamento presencial dentro do parque.</p>
+  <p class="sub">Acompanhamento presencial, parque a parque</p>
   <div class="tbl"><table class="">
-    <thead><tr><th>Pessoas</th><th>Valor</th></tr></thead>
+    <thead><tr><th>Participantes</th><th>Valor do tour</th></tr></thead>
     <tbody>
       <tr><td class="n">1–3</td><td class="p">$300</td></tr>
       <tr><td class="n">4–5</td><td class="p">$400</td></tr>
@@ -100,11 +75,7 @@ s{font:400 var(--strike)/1 var(--sans);color:var(--ardosia);margin-right:.7em;ve
       <tr><td class="n">8–10</td><td class="p">$700</td></tr>
     </tbody>
   </table></div>
-  <p class="note">O tour dura 6 horas.</p>
-  <footer class="foot">
-    <span class="ppd"><svg class="star" viewBox="0 0 100 100" aria-hidden="true"><path d="M50 0 C52.5 34 58 44 100 50 C58 56 52.5 66 50 100 C47.5 66 42 56 0 50 C42 44 47.5 34 50 0Z"/></svg>Valor por parque, por dia</span>
-    <span class="contact">lumi-concierge.com<br>WhatsApp/SMS +1 (352) 856-4860</span>
-  </footer>
+  <p class="foot">Valor por parque · por dia</p>
 </main>
 </body>
 </html>
