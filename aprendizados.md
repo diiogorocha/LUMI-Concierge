@@ -140,3 +140,20 @@ Registre aqui, com data, o que funcionou, o que não funcionou e o que o dono pe
   mercado arquivada; a vivência da dona com os clientes vale mais. Antes de
   fixar um termo, pergunte como os clientes falam.
 - **Origem:** retorno da dona sobre as tabelas.
+
+## 2026-10-23 — Metas de 3 a 12 meses
+- **Aprendizado:** a capacidade não é o gargalo. Só a dona atende cerca de 12
+  famílias por mês (2 por dia, ~22 dias, 3,5 parques por família) e hoje usa
+  cerca de 15%. O gargalo é a demanda previsível (canal) e a falta de medição.
+- **Aprendizado:** a receita por família vai de ~$600 (brasileira, 4 pessoas,
+  3 parques) a ~$1.600 (presencial, 4 a 5 pessoas, 4 parques). Para contas,
+  usar ticket médio de ~$700 a $750 como [PREMISSA] até a dona informar o
+  faturamento real.
+- **Aprendizado:** dado de mercado com fonte: Orlando teve 76,7 milhões de
+  visitantes em 2025; o Brasil foi o 3º país estrangeiro (736.300, +5,6%),
+  segundo a Visit Orlando (maio/2026).
+- **Aprendizado:** a venda das férias de julho acontece entre janeiro e abril
+  [PREMISSA]; planejar ações com esse prazo.
+- **Origem:** proposta de metas,
+  `entregas/estrategia-negocio/2026-10-23-metas-3-12-meses.md` (aguarda a
+  dona).

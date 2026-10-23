@@ -15,7 +15,9 @@ como decisão.
 meses (setor estrategia-negocio).
 
 **Etapas:**
-1. Diagnóstico e proposta de metas com cenários. Em andamento.
+1. Diagnóstico e proposta de metas com cenários. Entregue em
+   `entregas/estrategia-negocio/2026-10-23-metas-3-12-meses.md`; aguarda as
+   respostas e a aprovação da dona.
 
 ## Projeto concluído: identidade visual (2026-10-23)
 **Objetivo:** criar a identidade visual da LUMI a partir do logo atual. Na
