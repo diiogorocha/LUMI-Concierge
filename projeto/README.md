@@ -34,8 +34,8 @@ sequência, recriar as tabelas de preço como documento.
 4. Apresentação de agências/parceiros (PT), nova versão pronta com a
    identidade aprovada (2026-10-23). Entregue em
    `entregas/design-criativos/apresentacao-agencias-2026-10-23/` (HTML-fonte,
-   PDF 16:9 e PNG de cada slide); **aguarda aprovação da dona**. Textos e
-   informações mantidos; o original em `contexto/materiais/` não foi alterado.
+   PDF 16:9 e PNG de cada slide); **aguarda aprovação da dona**. Sem preço
+   (decisão da dona). Textos e informações mantidos; o original em `contexto/materiais/` não foi alterado.
 
 ## Decisões em vigor
 | Data | Decisão | Quem decidiu |
@@ -50,6 +50,7 @@ sequência, recriar as tabelas de preço como documento.
 | 2026-10-23 | Nomes: PT "Tour Presencial" e "Tour Virtual"; EN "In-Person Park Guidance" e "Virtual Park Guidance"; um termo por idioma; colunas "Participantes / Valor" | Dona ("guiamento soa estranho [...] os clientes pedem tour"); manter "Guidance" em inglês foi sugestão do Claude |
 | 2026-10-23 | A dona não tem Canva Pro: usar o caminho da conta gratuita | Dona |
 | 2026-10-23 | Melhorar a apresentação de agências/parceiros: nova versão pronta (recriar os slides com a identidade aprovada, em PDF, mantendo os textos e as informações dela). A do cliente fica para depois | Dona |
+| 2026-10-23 | Apresentação de agências sem preço | Dona ('nao vamos colocar preco nessa apresentacao') |
 
 ## Ideias da dona (ainda não decididas)
 - 2026-10-23: melhorar o PDF de apresentação para cliente (a de parceria

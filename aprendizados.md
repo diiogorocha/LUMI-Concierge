@@ -179,6 +179,10 @@ Registre aqui, com data, o que funcionou, o que não funcionou e o que o dono pe
 - **Erro a não repetir:** no CSS, regra genérica como `.s5 .main p{font:...}`
   apaga a cor do rótulo e o itálico das frases (mais específica que
   `.eyebrow`/`.quote`). Dê classe própria ao parágrafo de texto.
+- **Aprendizado (dona):** a apresentação de agências não leva preço, tabela
+  nem valor de comissão ("nao vamos colocar preco nessa apresentacao"). Ao
+  recriar uma peça da dona, não acrescente nem reescreva texto (selo, título
+  de contato): a copy é ajustada depois, numa etapa própria.
 - **Origem:** produção da apresentação em
   `entregas/design-criativos/apresentacao-agencias-2026-10-23/` (aguarda a
   dona).
