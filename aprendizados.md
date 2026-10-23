@@ -157,3 +157,28 @@ Registre aqui, com data, o que funcionou, o que não funcionou e o que o dono pe
 - **Origem:** proposta de metas,
   `entregas/estrategia-negocio/2026-10-23-metas-3-12-meses.md` (aguarda a
   dona).
+
+## 2026-10-23 — Apresentação de agências (16:9)
+- **Aprendizado:** o mesmo método das tabelas serve para slides: um HTML com
+  uma `<section>` de 1920x1080 por slide, `@page{size:1920px 1080px;margin:0}`
+  e `break-after:page`; o Playwright gera o PDF (7 páginas, 1440x810 pt) e o
+  PNG de cada slide com `elementHandle.screenshot`. Fontes embutidas
+  conferidas com `pdffonts` (Cormorant SemiBold e Medium Italic, Lato Regular
+  e Bold).
+- **Aprendizado:** nos PDFs da dona, parte do texto está "chapada" em imagem
+  (cards dos slides 3 e 6): o `pdftotext` não acha. Sempre renderizar as
+  páginas (`pdftoppm`) e ler os slides antes de dizer que um texto não existe.
+- **Aprendizado:** as fotos das apresentações originais são o castelo, a
+  estátua de Walt e Mickey e telas do app oficial da Disney, que o guia
+  proíbe. Sem fotos próprias da dona, a solução foi trocar foto por painel
+  marinho com frase de destaque ou números (2021 / Orlando / Disney). Quando a
+  dona mandar fotos dos parques, elas entram na capa e nos painéis.
+- **Aprendizado:** para leitura no celular (a apresentação vai por WhatsApp),
+  o texto foi usado maior que o guia (corpo 32–34 px, rótulo 22–24 px,
+  título 80–100 px no 1920x1080) e no máximo 5 cards por slide.
+- **Erro a não repetir:** no CSS, regra genérica como `.s5 .main p{font:...}`
+  apaga a cor do rótulo e o itálico das frases (mais específica que
+  `.eyebrow`/`.quote`). Dê classe própria ao parágrafo de texto.
+- **Origem:** produção da apresentação em
+  `entregas/design-criativos/apresentacao-agencias-2026-10-23/` (aguarda a
+  dona).
