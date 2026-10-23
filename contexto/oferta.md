@@ -85,6 +85,17 @@ A comissão é paga a cada indicação confirmada.
 | 6 a 7 | $550 |
 | 8 a 10 | $700 |
 
+**Tour presencial — Parceiros (já inclui a comissão)**
+(`tabela-presencial-parcerias-comissao-15.png`)
+| Pessoas | Preço | Comissão do parceiro (15%) |
+| --- | --- | --- |
+| 1 a 3 | $300 | $45 |
+| 4 a 5 | $400 | $60 |
+| 6 a 7 | $550 | $82,50 |
+| 8 a 10 | $700 | $105 |
+
+A comissão é paga a cada indicação confirmada.
+
 **Regras (dona, 2026-10-23):**
 - As tabelas acima são a fonte oficial dos preços.
 - Cliente brasileiro que chega direto, sem agência, paga a tabela Brasil.
