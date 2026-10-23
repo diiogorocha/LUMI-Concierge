@@ -130,3 +130,10 @@ Registre aqui, com data, o que funcionou, o que não funcionou e o que o dono pe
   e "Valor por parque, por dia" fica colado à tabela, não solto no rodapé.
 - **Origem:** retorno da dona sobre as tabelas,
   `entregas/design-criativos/tabelas-2026-10-23/`.
+
+## 2026-10-23 — Nomes dos serviços padronizados
+- **Aprendizado:** a dona quer um termo só para os dois serviços. Ficou
+  "Guiamento Presencial" e "Guiamento Virtual" (EN "In-Person Park Guidance" e
+  "Virtual Park Guidance"), com colunas "Participantes / Valor". Não misturar
+  "tour" e "guiamento" nas peças.
+- **Origem:** retorno da dona sobre as tabelas.
