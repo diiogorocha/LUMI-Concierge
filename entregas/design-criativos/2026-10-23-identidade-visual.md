@@ -408,17 +408,19 @@ como o A4 é mais alto, sobra respiro e o rodapé desce para perto do fim da
 folha.
 
 **Padrão de título (igual nas 5, versão 5):**
-1. Título em Cormorant = **nome do serviço** (ex.: "Guiamento Presencial").
+1. Título em Cormorant = **nome do serviço** (ex.: "Tour Presencial").
 2. Linha dourada em caixa alta (Lato Bold, Dourado Escuro) logo abaixo do
    título, com **o público da tabela** (e a comissão, nas parcerias), para
    não confundir a tabela brasileira com a americana.
 3. Filete dourado curto embaixo.
 4. Nada de "Experiência LUMI", subtítulo ou frase de apoio.
 
-**Nomes dos serviços (padronizados em 2026-10-23):** PT "Guiamento
-Presencial" e "Guiamento Virtual"; EN "In-Person Park Guidance" e "Virtual
-Park Guidance". Cabeçalho das colunas: "Participantes / Valor" (EN "Guests /
-Price"); parcerias: "Participantes / Valor / Sua comissão (15%)". Não usar "tour virtual" /
+**Nomes dos serviços (padronizados em 2026-10-23):** PT "Tour Presencial" e
+"Tour Virtual" (palavra que os clientes usam, segundo a dona); EN "In-Person
+Park Guidance" e "Virtual Park Guidance" (em inglês, "virtual tour" soa como
+visita online em 360°). Cada idioma usa um termo só. Colunas: "Participantes /
+Valor" (EN "Guests / Price"); parcerias: "Participantes / Valor / Sua comissão
+(15%)". Não usar "tour virtual" /
 "virtual tour" (soa como visita online em 360°) nem "assistance" (lembra o
 serviço de acessibilidade da Disney).
 
@@ -445,12 +447,12 @@ medida com PIL, altura do desenho dos glifos):
 
 | Tabela | Título | Linha dourada | Selo | Caixa de nota |
 | --- | --- | --- | --- | --- |
-| presencial-pt | Guiamento Presencial | CLIENTES BRASILEIROS | VALORES | sem caixa |
+| presencial-pt | Tour Presencial | CLIENTES BRASILEIROS | VALORES | sem caixa |
 | presencial-en | In-Person Park Guidance | U.S. CLIENTS · USD | PRICING | sem caixa |
-| virtual-brasil-pt | Guiamento Virtual | CLIENTES BRASILEIROS | VALORES | "Valores em dólar, convertidos para real pela cotação do dia." |
+| virtual-brasil-pt | Tour Virtual | CLIENTES BRASILEIROS | VALORES | "Valores em dólar, convertidos para real pela cotação do dia." |
 | virtual-americanos-en | Virtual Park Guidance | U.S. CLIENTS · USD | PRICING | "From 11 guests: 5% off the total." |
-| virtual-parceiros-pt | Guiamento Virtual | PARCEIROS NO BRASIL · COMISSÃO DE 15% POR INDICAÇÃO | PARCERIAS | "Comissão paga a cada indicação confirmada." |
-| presencial-parceiros-pt | Guiamento Presencial | PARCEIROS NO BRASIL · COMISSÃO DE 15% POR INDICAÇÃO | PARCERIAS | "Comissão paga a cada indicação confirmada." |
+| virtual-parceiros-pt | Tour Virtual | PARCEIROS NO BRASIL · COMISSÃO DE 15% POR INDICAÇÃO | PARCERIAS | "Comissão paga a cada indicação confirmada." |
+| presencial-parceiros-pt | Tour Presencial | PARCEIROS NO BRASIL · COMISSÃO DE 15% POR INDICAÇÃO | PARCERIAS | "Comissão paga a cada indicação confirmada." |
 
 Parcerias: colunas "Participantes / Valor / Sua comissão (15%)", sem frase
 explicando as colunas.

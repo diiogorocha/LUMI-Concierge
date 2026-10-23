@@ -132,8 +132,11 @@ Registre aqui, com data, o que funcionou, o que não funcionou e o que o dono pe
   `entregas/design-criativos/tabelas-2026-10-23/`.
 
 ## 2026-10-23 — Nomes dos serviços padronizados
-- **Aprendizado:** a dona quer um termo só para os dois serviços. Ficou
-  "Guiamento Presencial" e "Guiamento Virtual" (EN "In-Person Park Guidance" e
-  "Virtual Park Guidance"), com colunas "Participantes / Valor". Não misturar
-  "tour" e "guiamento" nas peças.
+- **Aprendizado:** em português, use a palavra que o cliente usa: os
+  clientes pedem "tour" (dona). Ficou "Tour Presencial" e "Tour Virtual". Em
+  inglês, "In-Person Park Guidance" e "Virtual Park Guidance", porque "virtual
+  tour" soa como visita online. Um termo por idioma, sem misturar.
+- **Erro a não repetir:** recomendei "guiamento" com base em pesquisa de
+  mercado arquivada; a vivência da dona com os clientes vale mais. Antes de
+  fixar um termo, pergunte como os clientes falam.
 - **Origem:** retorno da dona sobre as tabelas.
